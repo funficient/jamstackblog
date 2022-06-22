@@ -5,17 +5,17 @@
   --fs-600: 1.875rem;
   --fs-700: 2rem;
 
-  --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
+  --ff-body: "Poppins", sans-serif;
+  --ff-heading: "Martel", serif;
 
   --fw-400: 400;
   --fw-700: 700;
   --fw-900: 900;
 
-  --clr-primary-200: hsla(169, 70%, 95%, 1);
+  --clr-primary-200: #f3f3f3;
   --clr-primary-300: hsla(169, 100%, 39%, 1);
-  --clr-primary-400: hsla(169, 100%, 26%, 1);
-  --clr-primary-500: hsla(169, 100%, 16%, 1);
+  --clr-primary-400: #fc9745;
+  --clr-primary-500: #fc9745;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -198,6 +198,14 @@ section,
 
 .page-header {
   padding: 2em 0;
+  position: sticky;
+  top: 0;
+}
+
+.page-header.sticky {
+  background: #fff;
+  opacity: 80%;
+  top: 0;
 }
 
 .page-header__content {
@@ -213,12 +221,15 @@ section,
 .nav-list a {
   color: var(--clr-neutral-900);
   text-decoration: none;
+  padding: 1em 2em;
 }
 
 .nav-list a:focus,
 .nav-list a:hover {
   color: var(--clr-primary-400);
-  text-decoration: underline;
+  background: #f3f3f3;
+  padding: 1em 2em;
+  font-weight: 600;
 }
 
 /* //////////////////////
@@ -229,8 +240,13 @@ section,
   --logo-color: currentColor;
   padding: 2em 0;
   color: var(--clr-neutral-100);
-  background-color: var(--clr-primary-500);
+  background: linear-gradient(90deg, #fc9745, #ff7348);;
   text-align: center;
+}
+
+.inverted-color {
+  font-weight: 300;
+  padding-bottom: 1em;
 }
 
 /* //////////////////////
@@ -354,6 +370,7 @@ section,
   border-radius: 0.25em;
   align-self: start;
   justify-self: start;
+  font-weight: 500;
 }
 
 .btn:focus {
@@ -364,7 +381,7 @@ section,
 .btn--primary {
   background: var(--clr-primary-400);
   color: var(--clr-neutral-100);
-  font-weight: var(--fw-700);
+  font-weight: var(--fw-500);
   border: 2px solid var(--clr-primary-400);
 }
 .btn--primary:hover,
@@ -376,7 +393,7 @@ section,
 .btn--neutral {
   background-color: var(--clr-neutral-100);
   color: var(--clr-neutral-900);
-  font-weight: var(--fw-700);
+  font-weight: var(--fw-500);
   border: 2px solid var(--clr-neutral-900);
 }
 
