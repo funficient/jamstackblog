@@ -9,9 +9,8 @@ tags:
 author: Kate Dames
 date: 2022-01-31T07:13:54.379Z
 image: /assets/blog/didssph-pb80d_b4g7c-unsplash.jpg
-imageAlt: Crafting user stories are a bit like nested Russian dolls.  So how do
-  you get the size just right?
- canonical: "https://experiencestack.co/a-rough-guide-to-crafting-user-stories-thats-just-right-bc0c70a98f90"
+imageAlt: Crafting user stories are a bit like nested Russian dolls.  So how do you get the size just right?
+canonical: "https://experiencestack.co/a-rough-guide-to-crafting-user-stories-thats-just-right-bc0c70a98f90"
 ---
 
 ## A rough guide to crafting user stories that’s just right
