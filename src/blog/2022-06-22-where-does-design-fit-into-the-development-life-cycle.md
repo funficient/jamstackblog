@@ -1,12 +1,10 @@
 ---
 title: Where does design fit into the development life cycle?
 description: Scrum changed the world. But it is a process framework for
-  developers and most problems I see are not building the thing right (aka
-  development), but building the right thing (aka design).  Being productive is
-  not just about ensuring that you are optimizing the way you do things. The
-  most important aspect of productivity is to start with a clear goal. This post
-  aims to clarify how to include design into the development lifecycle for
-  optimum productivity.
+  developers and most problems I see are not building the thing right, but
+  building the right thing.  Efficiency is important, but even more important is
+  to know your destination. This post aims to clarify how to include design into
+  the development lifecycle for optimum productivity.
 tags:
   - post
   - featured
@@ -32,6 +30,8 @@ When, however, you include a good UX/UI designer or Product Manager, the results
 Being feature-rich, of course, is not bad in itself. It’s usually just better to solve a problem (design) and build the *right* thing before starting to build, an approach most developers I’ve worked with prefer.
 
 If you’ve ever found yourself frustrated filtering through all the junk on the Play Store searching for a useful app, you probably know what I mean.
+
+
 
 ## Is / Is Not
 
@@ -179,7 +179,5 @@ Being productive is not just about ensuring that you are optimizing the way you 
 So next time you’re struggling to prioritize, or frustrated with ever-changing requirements, consider *starting* with the end in mind.
 
 *If you need help streamlining your development process, visit **<https://www.funficient.com/services.html>** and start the conversation by booking a complimentary first call.*
-
-
 
 *Original article published on: https://funficient.medium.com/where-does-design-fit-into-the-development-life-cycle-342c8dc12fbc*
