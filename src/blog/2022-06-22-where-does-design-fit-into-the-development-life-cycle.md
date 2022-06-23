@@ -178,6 +178,8 @@ Being productive is not just about ensuring that you are optimizing the way you 
 
 So next time you’re struggling to prioritize, or frustrated with ever-changing requirements, consider *starting* with the end in mind.
 
-
-
 *If you need help streamlining your development process, visit **<https://www.funficient.com/services.html>** and start the conversation by booking a complimentary first call.*
+
+
+
+*Original article published on: https://funficient.medium.com/where-does-design-fit-into-the-development-life-cycle-342c8dc12fbc*
