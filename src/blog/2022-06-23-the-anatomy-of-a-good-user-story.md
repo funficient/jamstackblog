@@ -11,20 +11,18 @@ date: 2022-01-31T07:13:54.379Z
 image: /assets/blog/didssph-pb80d_b4g7c-unsplash.jpg
 imageAlt: Crafting user stories are a bit like nested Russian dolls.  So how do
   you get the size just right?
+ canonical: "https://experiencestack.co/a-rough-guide-to-crafting-user-stories-thats-just-right-bc0c70a98f90"
 ---
+
 ## A rough guide to crafting user stories that’s just right
-
-
 
 > ”Once upon a time, there was a little girl named Goldilocks. She came upon a house and when no one answered, she walked right in.
 >
 > At the table in the kitchen, there were three bowls of porridge. Goldilocks was hungry.”
 
-The story of Goldilocks and the three bears is a story about finding balance. She first finds something too big or too hot or too much, then something too small or too cold or too little. Finally, somewhere in the middle of these two extremes, however, she finds that one that’s *just right*.
+The story of Goldilocks and the three bears is a story about finding balance. She first finds something too big or too hot or too much, then something too small or too cold or too little. Finally, somewhere in the middle of these two extremes, however, she finds that one that’s _just right_.
 
-We have all come across the problem of getting user stories *just right*. Few people manage to master the art of crafting user stories and it is probably one of the most challenging aspects of implementing Scrum. Either the stories are too big or too small. Or there is too little details or too much. Getting a user story just right is hard. But not impossible by all means.
-
-
+We have all come across the problem of getting user stories _just right_. Few people manage to master the art of crafting user stories and it is probably one of the most challenging aspects of implementing Scrum. Either the stories are too big or too small. Or there is too little details or too much. Getting a user story just right is hard. But not impossible by all means.
 
 ## What makes a good user story?
 
@@ -38,7 +36,7 @@ But let’s analyze the parts of a good user story following the analogy of an a
 
 ### 1. A user story is the smallest possible item of value
 
-The first element of a good user story is that it is a complete unit that clearly contributes to the value of the existing system. It is in essence a micro version of an MVP (minimal viable product). ***It is a fully functional, complete unit that adds value to a user.***
+The first element of a good user story is that it is a complete unit that clearly contributes to the value of the existing system. It is in essence a micro version of an MVP (minimal viable product). **_It is a fully functional, complete unit that adds value to a user._**
 
 A good user story has as outcome an independent (or rather *inter*dependent) part that provides value to the stakeholders of the system who uses it. Sometimes these stakeholders are users who uses it, other times it is customers who pay for the product, at other times it could even be the internal team.
 
@@ -74,7 +72,7 @@ Understanding the parts, how do we put these layers together to craft a meaningf
 
 > „And then she went to the porridge of the Little, Small, Wee Bear, and tasted that; and that was neither too hot nor too cold, but just right.“ — Robert Southey, book Goldilocks and the Three Bears
 
-![](https://miro.medium.com/max/1400/1*UJOgDwnklSVtA48oYziCYQ.jpeg)Photo by [RF._.studio](https://www.pexels.com/@rethaferguson?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels
+![](https://miro.medium.com/max/1400/1*UJOgDwnklSVtA48oYziCYQ.jpeg)Photo by [RF.\_.studio](https://www.pexels.com/@rethaferguson?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels
 
 Using the metaphor of a human body, the three main layers of a good user story can be summarized as the skeleton of the body, the different organs, and finally, the flesh and outer appearance of the body.
 
@@ -92,7 +90,7 @@ There are three primary tools to build a good skeleton for a user story:
 
 A process flow diagram contextualize a bigger system flow. It maps the inputs, outputs and steps to change the inputs into the outputs in explicit, standalone steps. It is typically a limited perspective of a part of a bigger system.
 
-The process flow diagram is probably the most useful tool to validate whether a user story is too big, too small or *just right.* By splitting a bigger function into the concrete steps, unknowns are highlighted at a glance and too complicated flow diagrams point out a sizing issue on a single page.
+The process flow diagram is probably the most useful tool to validate whether a user story is too big, too small or _just right._ By splitting a bigger function into the concrete steps, unknowns are highlighted at a glance and too complicated flow diagrams point out a sizing issue on a single page.
 
 #### **2.User experience journey map**
 
@@ -152,7 +150,7 @@ These mock-ups can even be in the form of a comic strip only focusing on the key
 
 #### **2.Acceptance criteria**
 
-The user story usually focuses on *what* needs to be done and *why*, while the acceptance criteria focus on how you would know if it is successful. The acceptance criteria is a high level scenario planning though and aims to cover the different perspectives that need to be taken into consideration for a single user story.
+The user story usually focuses on _what_ needs to be done and _why_, while the acceptance criteria focus on how you would know if it is successful. The acceptance criteria is a high level scenario planning though and aims to cover the different perspectives that need to be taken into consideration for a single user story.
 
 The acceptance criteria opens up technical discussions on actual implementation, but still does not go into the next level of detail, which can be found in test cases.
 
@@ -168,8 +166,6 @@ Crafting user stories that’s not too big and not too small is an art. A good u
 
 Visualizing these parts and interactions greatly aids a shared understanding and reduces the errors as a result of missed or misunderstood requirements.
 
-*If you need help to craft your user stories and get them just right, book a time slot to start the conversation on [www.funficient.com](https://www.funficient.com/) .*
-
-
+_If you need help to craft your user stories and get them just right, book a time slot to start the conversation on [www.funficient.com](https://www.funficient.com/) ._
 
 Originally written here: https://experiencestack.co/a-rough-guide-to-crafting-user-stories-thats-just-right-bc0c70a98f90

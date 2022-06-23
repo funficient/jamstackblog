@@ -10,16 +10,18 @@ author: Kate Dames
 date: 2022-05-10T17:52:12.711Z
 image: /assets/blog/pexels-rodnae-productions-7502583.jpg
 imageAlt: Image from https://www.pexels.com/photo/band-doing-a-performance-7502583/
+canonical:
 ---
-*Music has been an important part of my life from my early childhood.* Some of my best memories involves live music. When a group of talented musicians get together magic happens.  Time stands still as I observe the play between different instruments to create art.   
 
-But I'm not a musician.  My art is the art of software development, which is strikingly similar to the art of making music.  It takes more than talent to create a great team.
+_Music has been an important part of my life from my early childhood._ Some of my best memories involves live music. When a group of talented musicians get together magic happens. Time stands still as I observe the play between different instruments to create art.
+
+But I'm not a musician. My art is the art of software development, which is strikingly similar to the art of making music. It takes more than talent to create a great team.
 
 ## Extreme relationships
 
-XP has been a big part of my journey and is what I look at for the day-to-day ***how to***. What I love about XP is that it is rather like the pot of gold at the end of the rainbow. It suggests a few ingredients that will create autonomous, productive teams that are able to deliver high-quality software, without prescribing an exact recipe. It focuses on practices that create high performing teams much like a chef will look at different ingredients and create various dishes from the same ingredients.
+XP has been a big part of my journey and is what I look at for the day-to-day **_how to_**. What I love about XP is that it is rather like the pot of gold at the end of the rainbow. It suggests a few ingredients that will create autonomous, productive teams that are able to deliver high-quality software, without prescribing an exact recipe. It focuses on practices that create high performing teams much like a chef will look at different ingredients and create various dishes from the same ingredients.
 
-XP originated by answering a simple question — *what works, and how can we take that to the extreme?*
+XP originated by answering a simple question — _what works, and how can we take that to the extreme?_
 
 > XP aims to amplify the good in teams that help them deliver high-quality software.
 
@@ -41,7 +43,7 @@ But it doesn’t take any scientific research to grasp some of the benefits of w
 
 ### 1. Real-time feedback
 
-Probably the biggest benefit from ensemble programming is that you get real-time feedback on your work, thus drastically reducing and even eliminating the biggest waste in most teams, namely *waiting time*.
+Probably the biggest benefit from ensemble programming is that you get real-time feedback on your work, thus drastically reducing and even eliminating the biggest waste in most teams, namely _waiting time_.
 
 One of the practices that have proven beneficial to increasing the quality of the software is code reviews. The problem with code reviews, however, is that often you spend a lot of time waiting for the reviewer to give feedback and both waste time in context switching which reduces productivity.
 
@@ -149,7 +151,7 @@ Things to look out for when selecting a timer are the ability to add names, the 
 
 ### 6. Make it voluntary
 
-As a professional “playoneer” (someone who understands play and the mechanics of play and uses it as a tool for creativity and innovation), I strongly believe in voluntary contribution. If people *choose* to show up, it works. If people only show up because they *have to*, it doesn’t really work and you have a false sense of confidence. It might be harder to face reality if it isn’t what you want, but it’s always harder to face the consequences of living in a bubble.
+As a professional “playoneer” (someone who understands play and the mechanics of play and uses it as a tool for creativity and innovation), I strongly believe in voluntary contribution. If people _choose_ to show up, it works. If people only show up because they _have to_, it doesn’t really work and you have a false sense of confidence. It might be harder to face reality if it isn’t what you want, but it’s always harder to face the consequences of living in a bubble.
 
 To get maximum buy-in and participation it is essential to make these sessions voluntary. The [law of two feet](https://ktchange.com/openspace.html) should always apply which gives people the freedom without any negative consequences to leave the session if they feel they are not contributing or getting anything out of the session.
 
@@ -163,10 +165,8 @@ Agility is the ability to respond to change. The retrospective and reflective sp
 
 Even more important than identifying actions is to act on it. Ensure that there’s not too many actions and that the actions get checked off before adding new ones.
 
-And that’s a beginner’s guide to getting started with ensemble programming. 
+And that’s a beginner’s guide to getting started with ensemble programming.
 
-*If you need help implementing ensemble sessions at your workplace, visit **[www.funficient.com](https://www.funficient.com/workshops.html)** and book an ensemble session.*
+_If you need help implementing ensemble sessions at your workplace, visit **[www.funficient.com](https://www.funficient.com/workshops.html)** and book an ensemble session._
 
-
-
-*Original article posted on https://funficient.medium.com/where-does-design-fit-into-the-development-life-cycle-342c8dc12fbc*
+_Original article posted on https://funficient.medium.com/where-does-design-fit-into-the-development-life-cycle-342c8dc12fbc_

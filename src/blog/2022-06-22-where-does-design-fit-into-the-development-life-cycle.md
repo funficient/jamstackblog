@@ -12,7 +12,9 @@ author: Kate Dames
 date: 2022-06-22T15:35:09.231Z
 image: /assets/blog/rishabh-dharmani-x0gw9yspcr4-unsplash.jpg
 imageAlt: How to bring the best of two worlds together
+canonical:
 ---
+
 Every now and again I walk into a new team and more regularly than not, there seems to be a disconnect between the design- and development functions.
 
 Understandable.
@@ -27,11 +29,9 @@ Crossing this gap between the different thinking styles can be challenging. Anyo
 
 When, however, you include a good UX/UI designer or Product Manager, the results are magical. It’s the difference between Microsoft and Apple back in the day. The one aimed at being feature-rich and affordable, while the other aimed at being simple, useful and beautiful, and creates a niche following that lasts long after the founder’s death and who is willing to pay a premium to be part of this exclusive club.
 
-Being feature-rich, of course, is not bad in itself. It’s usually just better to solve a problem (design) and build the *right* thing before starting to build, an approach most developers I’ve worked with prefer.
+Being feature-rich, of course, is not bad in itself. It’s usually just better to solve a problem (design) and build the _right_ thing before starting to build, an approach most developers I’ve worked with prefer.
 
 If you’ve ever found yourself frustrated filtering through all the junk on the Play Store searching for a useful app, you probably know what I mean.
-
-
 
 ## Is / Is Not
 
@@ -47,7 +47,7 @@ In other words, they turn guesses and ideas into educated decisions based on fac
 
 ### Good design is good problem solving
 
-***Primarily, the “product” team owns the problem.*** They make sure that you’re solving the *right* problem — is it useful and is it the most important priority that will add the most value to the users?
+**_Primarily, the “product” team owns the problem._** They make sure that you’re solving the _right_ problem — is it useful and is it the most important priority that will add the most value to the users?
 
 The product team spends time to clarify the problem and come up with possible solutions which they present to the technical team who will take over the implementation part.
 
@@ -57,7 +57,7 @@ The double diamond approach below is a tried and tested process to turn a genera
 
 Image from <https://www.gdm.gent/design-meets-research/hcd/>
 
-The “development” team, on the other hand, primarily owns the *solution —* the *how* it’s done. They make sure that the problem is robust, safe, efficient, and maintainable. They take the prototype (usually a mock-up or concept) from the product team and figure out how best to build it.
+The “development” team, on the other hand, primarily owns the _solution —_ the _how_ it’s done. They make sure that the problem is robust, safe, efficient, and maintainable. They take the prototype (usually a mock-up or concept) from the product team and figure out how best to build it.
 
 Comparing it to building a house, the architect and interior designer would be the “product team”, while the engineers, builders, plumbers, and everyone else required to transform the idea on a piece of paper into something tangible, is the “development team”.
 
@@ -76,13 +76,13 @@ A design iteration — the non-Google way — can take many forms. What is most 
 
 That doesn’t mean, however, that everyone should do everything together. It could very well mean a number of workshops where everyone does everything together. But in reality, this is rarely useful for an existing product.
 
-***The purpose of the design sprint is to prepare the requirements adequately so that the developers can spend their effort in figuring out* how*, not what to build.*** This means ensuring it is needed, useful, and the most important thing right now. It also means that any unknowns will be identified and turned into knows before the developers have to start building.
+**_The purpose of the design sprint is to prepare the requirements adequately so that the developers can spend their effort in figuring out_ how*, not what to build.*** This means ensuring it is needed, useful, and the most important thing right now. It also means that any unknowns will be identified and turned into knows before the developers have to start building.
 
 ### Mindset matters
 
-More and more developers are starting to see the benefit of including a good Product Manager (not to be confused with a *Project* Manager who only owns the process, not the product) in a software development team.
+More and more developers are starting to see the benefit of including a good Product Manager (not to be confused with a _Project_ Manager who only owns the process, not the product) in a software development team.
 
-Yet, many developers simply don’t see *why* they need a Product Manager (or Product Owner or UX designer…) if they can find ready made assets online and use libraries to build forms, pages, etc.
+Yet, many developers simply don’t see _why_ they need a Product Manager (or Product Owner or UX designer…) if they can find ready made assets online and use libraries to build forms, pages, etc.
 
 It’s hard (or maybe impossible), however, to see the forest from the trees. It’s much more efficient to have someone look at the forest from afar while another is amidst the trees trying to navigate their way between complex code.
 
@@ -92,9 +92,9 @@ The mindset required to think about a user experience compared to building a rat
 
 Another, more pressing reason is that as much as 80% of software isn’t used by users. When presented with a cluttered and feature rich interface users will probably focus on the 20% features they are already familiar with.
 
-***That means a substantial chunk of your development effort goes towards unused software.*** Maybe because they can’t find it, or more probably because it doesn’t help the end-users’ achieve their goals more effectively.
+**_That means a substantial chunk of your development effort goes towards unused software._** Maybe because they can’t find it, or more probably because it doesn’t help the end-users’ achieve their goals more effectively.
 
-*That’s a lot of waste!*
+_That’s a lot of waste!_
 
 Including “product” (a collective word I use to refer to everyone involved in the design process, including a Product Manager, a UX designer, a graphic designer and possibly a Business Analyst or Product Owner) perspective increases the probability that what you’re building is useful and adds value to the user. It’s thus usually a lot more productive.
 
@@ -108,7 +108,7 @@ The first point of contact is usually a result of a pain point or a desire to cr
 
 I find including the technical team in the process at this early stage is less useful than helpful as everything will most probably change from brief to planned sprint or iteration. I would much rather record the session and make it available to the technical team as optional viewing should they be interested in it than including them in the brief in-person.
 
-At this early stage, the primary purpose of the product manager / product owner is to determine what success might look like for the customer. *What does the customer want the users to do and how will they feel when the pain point is resolved? What will be different? What will it look like when the problem isn’t there anymore?*
+At this early stage, the primary purpose of the product manager / product owner is to determine what success might look like for the customer. _What does the customer want the users to do and how will they feel when the pain point is resolved? What will be different? What will it look like when the problem isn’t there anymore?_
 
 ### 2. Research | Reality
 
@@ -146,9 +146,9 @@ The goal at this stage is to get feedback, not approval.
 
 Once the customer and technical team feels confident that the solution is adequate and realistic, a few things happen:
 
-* The product manager breaks down the concept into smaller chunks which will become individual user stories that can deliver a complete valuable feature at the end of a maximum one week iteration.
-* The graphic designer finalizes the designs and identify or update design system components.
-* The technical team negotiates with the Product Manager to find a balance between scope and time, following the **[Basecamp](https://basecamp.com/shapeup/0.3-chapter-01#shaping-the-work)** approach to shape work.
+- The product manager breaks down the concept into smaller chunks which will become individual user stories that can deliver a complete valuable feature at the end of a maximum one week iteration.
+- The graphic designer finalizes the designs and identify or update design system components.
+- The technical team negotiates with the Product Manager to find a balance between scope and time, following the **[Basecamp](https://basecamp.com/shapeup/0.3-chapter-01#shaping-the-work)** approach to shape work.
 
 Rather than the technical team saying how much time it will take to do something as in traditional Scrum, the Product Manager dictates how much appetite they have for a specific feature and then negotiate the contents to fit into this budget. Thus, estimations are product-driven rather than developer-driven.
 
@@ -172,12 +172,12 @@ Once an iteration is approved, a retrospective looks back at the past iteration 
 
 ## Bridging the gap
 
-Scrum changed the world. But it is a process framework for developers and most problems I see are not building the *thing* right (aka development), but building the *right* thing (aka design).
+Scrum changed the world. But it is a process framework for developers and most problems I see are not building the _thing_ right (aka development), but building the _right_ thing (aka design).
 
 Being productive is not just about ensuring that you are optimizing the way you do things. The most important aspect of productivity is to start with a clear goal. This is where design fit into the process.
 
-So next time you’re struggling to prioritize, or frustrated with ever-changing requirements, consider *starting* with the end in mind.
+So next time you’re struggling to prioritize, or frustrated with ever-changing requirements, consider _starting_ with the end in mind.
 
-*If you need help streamlining your development process, visit **<https://www.funficient.com/services.html>** and start the conversation by booking a complimentary first call.*
+_If you need help streamlining your development process, visit **<https://www.funficient.com/services.html>** and start the conversation by booking a complimentary first call._
 
-*Original article published on: https://funficient.medium.com/where-does-design-fit-into-the-development-life-cycle-342c8dc12fbc*
+_Original article published on: https://funficient.medium.com/where-does-design-fit-into-the-development-life-cycle-342c8dc12fbc_
