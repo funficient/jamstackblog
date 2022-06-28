@@ -1,5 +1,5 @@
 ---
-title: A dummies guide to evaluating Ethereum DApps
+title: A dummies guide to evaluating DApps
 description: Like the Google Play Store though, there are so many choices that
   it’s really hard to know which one to pick. So I’m embarking on a little
   pet-project to curate the available DApps and try to make some sense from all
@@ -7,7 +7,7 @@ description: Like the Google Play Store though, there are so many choices that
 tags:
   - post
 author: Kate Dames
-date: 2022-06-28T13:12:42.563Z
+date: 2020-05-21T13:12:42.563Z
 image: /assets/blog/stephen-leonardi-lzgibl8drpm-unsplash.jpg
 imageAlt: Fantasy is great.  What's even better is when fantasy become reality.
 canonical: https://funficient.medium.com/a-dummies-guide-to-evaluating-ethereum-dapps-2e402a701065
