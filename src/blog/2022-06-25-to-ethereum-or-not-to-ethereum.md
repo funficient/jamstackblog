@@ -98,7 +98,7 @@ It simply doesn’t make much business sense to put a document management system
 
 Ethereum might be great for a fun or personal project and to break free from the traditional fiat systems, but by far my biggest concern relates to the fundamental design principle of decentralization.
 
-The ugly of Ethereum (and DeFi in general) is that centralized hubs that access and store personal documents are forced at all access points, thus breaking the most fundamental principle of the block chain, namely decentralization.
+The ugly of the blockchain (DeFi specifally) is that centralized hubs that access and store personal documents are forced at all access points, thus breaking the most fundamental principle of the block chain, namely decentralization.  This is of course not Ethereum or any blockchain's fault, but still something to take into consideration.
 
 It might still be easier to open a financial account in a European run company than opening a European bank account from South Africa — where I live — but I kept running into the same wall when randomly choosing a wallet or exchange. South Africa is not supported, or getting funds into my wallet is not supported with my currency, or getting money out is a problem. It is a similar discrimination than before based on geographic location. Probably only because they haven’t had time to catch up yet and hopefully this will change.
 
