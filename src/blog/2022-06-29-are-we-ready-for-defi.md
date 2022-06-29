@@ -173,39 +173,33 @@ Given the choice, I would choose DeFi.
 
 ## 4. Easily buy and sell goods
 
-Even though banks are traditionally a *store* for money, it is also more commonly used for transacting in day-to-day life using a card or electronic payments. Fewer and fewer people use cash and many stores prefer cards over cash.
-
-In South Africa even small vendors and business owners accept card payments for small expenses like coffee with services such as **[Yoco](https://www.yoco.co.za/za/)**.
+Even though banks are traditionally a *store* for money, it is also more commonly used for transacting in day-to-day life using a card or electronic payments. Fewer and fewer people use cash and many stores prefer cards and digital money over cash.  In South Africa even small vendors and business owners accept card payments for small expenses like coffee with services such as **[Yoco](https://www.yoco.co.za/za/)** making it extremely convenient to have a bank card.
 
 Buying on the internet is a little more complicated due to all the safety precautions but still relatively easy and streamlined.
 
 Buying and selling goods on DeFi is much harder for someone new in the field. Where with traditional banks we’ve figured out a lot of the complexity of dealing with cross-border exchanges with services like PayPal or credit cards, in the DeFi world there are many, many, ***many*** more currencies and services to deal with and due to the legislative requirements of each country, there are different exchanges and wallets that supports different countries and currencies.
 
-To complicate it even more, some currencies run on a totally different blockchain, or network, which is something no-one tells you because it’s so obvious for those in the field that it’s not worth mentioning. I, however, knew that Bitcoin was on a different blockchain than Ethereum, but I still don’t understand why my wallet allows me the option to buy and sell both and exchange between the two easily, but not when I attempt a transaction elsewhere. Or rather, I understand why this is the way it is, I don’t understand why no-one has solved it yet as it seems to be a very basic requirement and easy to solve problem.
+![The complexity with cross-chain tokens.](/assets/blog/cross-chain.jpg "Cross-chain transactions are more complicated than cross-boarder fiat transactions.")
 
-I, for example, was advised to use [MetaMask](https://metamask.io/) as one of the most trusted wallets. However, after signing up and ready to deposit money discovered that I’m not able to deposit funds as South African cards are not supported. I then signed up at Luno, just to discover their extremely high fees and lack of options and services, making them a really good choice for someone only interested in using it as a savings account, but a really bad choice for someone who wants to make use of all the DApps (decentralized web applications) available. But it is a frustrating and disappointing experience when you expect services that isn’t available.
+Each blockchain has a different currency (ETH for Ethereum, BTC for Bitcoin etc) and each service provider on a specific blockchain has a separate token too (like FLOW or UNI etc).  Although this is a technical constraint, it is not hidden from the user and thus in effect bartering rather than the universal token as a US Dollar for exmple is when a baker barters with a tailor. I personally don't understand why no-one has solved this problem yet, as it is a very basic expectation for a user to be able to transact with the tokens they have if they can own it.  This, however, is not the case and many transactions are 'impossible' for a specific app or feature due to the fact that you require a specific token to make a specific transaction.
 
-To make it even more complicated, each DeFi service or product requires an exchange to a different token which can be extremely overwhelming and confusing for a new person to the DeFi world.
+For example, I was advised to use [MetaMask](https://metamask.io/) as one of the most trusted wallets. However, after signing up and ready to deposit money discovered that I’m not able to deposit funds as South African cards are not supported. I then signed up at Luno, a local option, just to discover their high fees and lack of options and services. Similarly, Zengo offers state of the art technology and convenience, yet, runs on the ethereum network (I think?) and requires you to own ETH in order to complete transactions.  It can be  a frustrating and disappointing experience when you expect services that isn’t available, or being confused as to why you can't complete a transaction due to the underlying complexity of the cross-chain infrastructure.
 
-Personally, I would love a global Euro type of currency. One currency that means exactly the same everywhere.
+Personally, I would love a global Euro type of currency. One currency that means exactly the same everywhere.  Maybe in my next life… 
 
-Maybe in my next life… I do however feel there can be a slightly more simplified solution to the exchanging of tokens and collectables.
+And then there's gas and network fees, already touched on.  While in principle I like the idea of gas and pay-per-use as it reduces spam and pays for the people who build the service, it is so variable that it’s simply not possible to have an exact amount in any transaction.
 
-While in principle I really like the idea of gas and pay-per-use as it reduces spam and pays for the people who build the service, it is so variable that it’s simply not possible to have an exact amount in any transaction.
+Coming from a lean and agile background, this means *a lot of* waste. You have to estimate the deposit made and always add a little to cover the gas. But you also need to take into consideration the volatility and constant fluctuation. For each transaction the same applies so you end up with small little piles of value everywhere that doesn’t really allow you to do anything with it.
 
-Coming from a lean and agile background, this means *a lot of* waste. You have to estimate the deposit made and always add a little to cover the gas. But you also need to take into consideration the volatility and constant fluctuation. For each transaction the same applies so you end up with small little piles of value everywhere that doesn’t really allow you to do anything sensibly.
+The biggest disadvantage and most confusing aspect relating to daily transacting with crypto is that when you go and buy a bread, the average person can't do an exchange calculation in their head to translate 0.00212422 bitcoin or Ethereum to a local currency.    When you travel and have to deal with exchanges it is easy enough to calculate a rounded up exchange between the two currencies without a calculator. R100 for example is roughly 5 US Dollars. It’s easy enough to then calculate $10 or $50.  With crypto, this is impossible for even the more talented in mathematics.
 
-The biggest disadvantage and most confusing aspect relating to daily transacting with crypto is that when you go and buy a bread, a normal person can not quickly do an exchange in their head to translate 0.00212422 bitcoin or Ethereum to a local currency.
+I often use something like the price of coffee as baseline to determine a relative value when I’m new in a country. For example, in South Africa a cup of coffee is about R30 or $1.50 US dollars. When I travel to the US and the average price is $3.50 for a cup of coffee, I roughly know to triple my rand estimates of value when deciding on how valuable something is to me. With crypto, I haven’t figured out a hack to relate the value back to my physical day-to-day life. Maybe it just takes time getting used to.
 
-When you travel and have to deal with exchanges it is easy enough to calculate a rounded up exchange between the two currencies without a calculator. R100 for example is roughly 5 US Dollars. It’s easy enough to then calculate $10 or $50.
+With the presentation of digital currencies usually with a lot of decimals, this is impossible (for the normal person) making it a guessing game and quite scary and risky for a new person. Add onto that the complexity and cost of gas fees and cross-chain support, I don’t see the benefit of transacting using crypto. It only makes sense for larger purchases done less frequently.
 
-I often also use something like the price of coffee as baseline to determine a relative value when I’m new in a country. For example, in South Africa a cup of coffee is about R30 or $1.50 US dollars. When I travel to the US and the average price is $3.50 for a cup of coffee, I roughly know to triple my rand estimates of value when deciding on how valuable something is to me. With crypto, I haven’t figured out a hack to relate the value back to my physical day-to-day life. Maybe it just takes time getting used to.
+> This, I believe is the biggest barrier to mainstream adoption. Until you can't buy bread and milk with crypto, it can't replace centralized banks.
 
-With the presentation of digital currencies usually with a lot of decimals, this is impossible (for the normal person) making it a guessing game and quite scary and risky for a new person. Add onto that the complexity in terms of gas fees I personally don’t see the benefit of transacting daily using crypto. It only makes sense for larger purchases done less frequently.
-
-So even though I absolutely love the choices and access to financial services that DeFi offers, **I choose traditional banks** for their simplicity and accessibility when it comes to daily transactions right now.
-
-I do, however, foresee that this will soon change with all the work being done and the rollout of Ethereum 2.0, which will make crypto a ***much*** better choice than traditional banks.
+So even though I absolutely love the choices and access to financial services that DeFi offers, **I choose traditional banks** for their simplicity and accessibility when it comes to daily transactions right now and don't know anyone else who would choose differently. 
 
 ## 5. Globally earn and pay people
 
