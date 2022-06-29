@@ -203,27 +203,23 @@ So even though I absolutely love the choices and access to financial services th
 
 ## 5. Globally earn and pay people
 
-So I haven’t paid or earned crypto and can’t give an accurate opinion, but from what I do know **DeFi is the clear winner** here.
+I haven’t paid or earned crypto as a salary and can’t give an accurate opinion, but from what I do know **DeFi is the clear winner** here.
 
-Except for the KYC red tape imposed by regulations, once you are on the blockchain via an exchange in your country, you’re ready to go and paying for bread at your local deli is exactly the same as paying someone in the Philippines. It thus makes much more sense using crypto for cross-border transactions and higher value transactions as the fees are more cost effective.
+Except for the KYC red tape imposed by regulations, once you are on the blockchain via an exchange in your country, you’re ready to go and paying for bread at your local deli is exactly the same as paying someone in the Philippines. It thus makes much more sense using crypto for cross-border transactions and higher value transactions as the fees are more cost effective and it is much faster.
 
-There are a few (though not many) crypto wallets and exchanges (I’m still to figure out the correct words as it is not used consistently and mean different things for different products) that offers credit cards that can be used as a regular credit card. One of the best options is [Crypto.com](https://platinum.crypto.com/r/5aaxdnkhx9) which offers brilliant rewards for using your card and makes it a much better option than a traditional bank.
+There is also much less paperwork involved in a crypto transaction than having to receive an international payment from aboard.  I can simply send a QR code to request money, while if I want to be paid internationally I have to find and send my international bank details to the person wanting to pay me, as well as complete a form and submit it to my local bank in order to process the transaction.  The fee for an international payment is also more expensive than a crypto transaction.
+
+There are a hand ful of cryptooptions offering credit cards. For example [Crypto.com](https://platinum.crypto.com/r/5aaxdnkhx9) which offers brilliant rewards for using your card. These options are however restricted to geographic locations and not accessible to everyone.  I can't for example get a Crypto card in South Africa.
 
 # And the winner is….
 
-With 3 points to decentralized banking and 2 points to traditional banks, DeFi wins, but with a small margin. The higher fees and complexity, however, still weighs lower than the pain of having to deal with a traditional bank in my opinion. I would rather struggle to figure out all the DApps than have to deal with a bank’s customer support.
+With 3 points to decentralized banking and 2 points to traditional banks, DeFi wins, but with a small margin. 
 
 Is it ready for mainstream adoption though?
 
 I don’t think so. Not quite yet.
 
-The learning curve is simply too high and there are still too few fully integrated options available.
-
-The only two integrated banking solutions I could find (and is reputable) is [Crypto.com](https://platinum.crypto.com/r/5aaxdnkhx9) and my personal favorite (right now) [Argent](https://www.argent.xyz/).
-
-Argent is one of the few apps that focus on usability and wins on ease of use, integration ***and*** fees (the gas fees are fully subsidized by Argent) and is by far the easiest to transact with.
-
-Crypto wins purely because of their card offering which allows a user to replace their current bank, even though ideally we should do away with plastic totally and use our phones. I see no need for a plastic card when you already have more information that can be stored safely on your phone, however, the general public probably disagrees with me and feel safer with a physical card.
+The learning curve is simply too high and there are still too few fully integrated options available.  Practically, until you can't buy bread and milk, DeFi can't stand alone with fiat.
 
 # And the verdict is…
 
@@ -233,6 +229,6 @@ It is getting better by the day and I predict that it will become the preferred 
 
 However, be responsible and do your due diligence. With great freedom comes great responsibility.
 
-<!--EndFragment-->
+
 
 *Originally published on medium https://funficient.medium.com/are-we-ready-for-defi-16fff0c4ef37*
