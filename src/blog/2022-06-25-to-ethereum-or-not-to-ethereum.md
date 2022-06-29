@@ -80,7 +80,7 @@ Where on the BitCoin network transactions don’t charge “gas”, on the Ether
 
 This, in my opinion, is the main reason why it is still so small relative to the market size available.
 
-The justification is that it is a small fee, only a few cents (which in practice sometimes is and sometimes not and depends very much on your base for cents as the South African Rand for example is much weaker than the Dollar), and that it reduces spam. Although there is some merit in this reasoning (there must be for people to buy it), in practice, I don’t quite buy into it and don’t quite agree with it.
+The justification is that it is a small fee, only a few cents (which in practice sometimes is and sometimes not and depends very much on your base for cents as the South African Rand for example is much weaker than the Dollar), and that it reduces spam. Although there is merit in this reasoning, in practice, I don’t quite agree with it.  Especially when I see gas being burned, meaning it's too much (from my lay person perspective).
 
 The current internet is free to use. Most digital products offer a free option which in today’s crowded market is essential to filter out the empty promises from the actual quality products available and to see whether it solves your problem. Free or crowdsource means building what matters and listening to the users, something that the previous generation of software developers seriously failed at and the main reason why we’re in search of alternatives.
 
