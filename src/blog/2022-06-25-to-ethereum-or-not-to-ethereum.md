@@ -26,7 +26,7 @@ Ethereum is fast becoming one of the most popular block chains available. There 
 
 For those not familiar with block chains, the main promise that the block chain brings include decentralization, transparency and privacy for financial (for a lack of a better term) transactions.
 
-Ethereum took the block chain technology with all these benefits to the next level by creating an entire ecosystem — including financial transactions but so much more — based on the same principles. It can thus rather be seen as a block chain technology platform than a crypto currency network like the BitCoin block chain. Anything can be put on the block chain, and that’s part of the vision of Ethereum — to create the next web.
+Ethereum took the block chain technology with all these benefits to the next level by creating an entire ecosystem — including financial transactions but so much more — based on the same principles. It can thus rather be seen as a block chain technology platform than a crypto currency network like the BitCoin block chain. Anything can be put on the block chain, and that’s part of the vision of Ethereum — to create the next web (or web3).
 
 *Decentralization* refers to the concept of distributed decision making and what caused the initial buzz as it was directly opposing the centralized systems of banks and financial institutions. In other words, and in rather very simplified layman’s terms, there is not one decider responsible for decisions affecting the masses and thus no single point of control. Without a single point of control the boundaries and red tape instituted by governments and financial institutions that discriminate against people considered not part of their team are broken. It makes it possible for anyone, anywhere in the world — as long as they have internet and a device — to transact with anyone else, anywhere in the world.
 
@@ -52,7 +52,7 @@ Digital seems like our best option going forward, and \*the original\* block cha
 
 So it makes sense that we start replacing the old financial systems with new ones and Ethereum has embarked on a journey to do just that, quite enthusiastically, if I might say so.
 
-Ethereum, however, does not restrict itself to financial transactions like Bitcoin. You can literally put anything on the Ethereum block chain. It is the Google Play Store on the blockchain with an app for everything, starting with [DeFi](https://medium.com/@funficient/are-we-ready-for-defi-16fff0c4ef37) (decentralized finance). There are games, market places and even job boards available with each day more apps being released.
+Ethereum, however, does not restrict itself to financial transactions like Bitcoin. You can literally put anything on the Ethereum block chain. It is the Google Play Store on the blockchain with an app for everything, starting with [DeFi](https://medium.com/@funficient/are-we-ready-for-defi-16fff0c4ef37) (decentralized finance). There are also games, market places and even job boards available with each day more apps being released.
 
 # The good — shared vision & community
 
@@ -123,7 +123,5 @@ For a document processing and storage solution provided free of charge and with 
 There are of course benefits, including the permanence of records and inability to tamper with it, more accurate and real-time statistics available and more, but this can be done on existing technology.
 
 So even in a digital world, sometimes it makes more sense to go with low-tech or no-tech to improve a user experience. Just because you can, doesn’t mean you should. *Only digitize if it is an improvement.*
-
-
 
 Originally written on https://medium.com/swlh/to-ethereum-or-not-to-ethereum-2bc2bb44ec25
