@@ -133,15 +133,15 @@ However, the average user wants a simple savings account and the ability to tran
 
 ## 2. Access to loans or credit
 
-Getting a loan at a traditional bank is paved with paperwork and extortionately high fees. Traditional banks also tend to only give money to people who don’t really need it as a source of *bank* income and longer term hook.
+Getting a loan at a traditional bank is paved with paperwork and extortionately high fees. Traditional banks also tend to only give money to people who don’t really need it.
 
-If, for example, you are a business needing some startup capital or temporary loan the bank will most definitely not help you. If, however, you are a salary earner wanting a credit card to pay for a luxury holiday you can’t really afford they will happily give it to you, adding some forced insurance premiums and a high monthly fee on top of the interest on the debt.
+If, for example, you are a business needing some startup capital or temporary loan the bank will most definitely not help you. If, however, you are a salary earner wanting a credit card to pay for a luxury holiday you can’t really afford they will happily give you the money, and in Capitec's case will add some mandatory insurance premiums and a high monthly fee on top of the interest on the debt.
 
-On DeFi borrowing is much more accessible and risk is purely determined on your available collateral, or how much assets you have available. There is no paperwork to complete either. Simply a smart contract that runs in the background enforced without any discrimination or judgement.
+On DeFi borrowing is much more accessible and risk is purely determined on your available collateral, or how much assets you have available. There is no to little paperwork to complete either (depending on the service provider). A smart contract that is not biased runs in the background and as long as you play within the rules, there's no questions asked.
 
-The repayment [rates](https://defirate.com/loans/) on the debt are much lower than traditional banks offering anything from 0.3% to 16% making it a much better value proposition.
+The repayment [rates](https://defirate.com/loans/) on the debt are much lower than traditional banks offering anything from 0.3% to 16% making it a much better value proposition for those who can pay back their debt.  The risk is, however, of course much higher with volatile markets and a range of different providers which have not yet build reputations like the big banks.
 
-Unfortunately I don’t have any debt to compare, but I do have a credit card that I use for my daily transactions. With no overdue payments, my interest earned for the month was R0.05 and fees totaled R53.55. This fee consists of a monthly fee of R40 with the rest forced insurance. If I made use of the credit facility this monthly cost of debt would be much higher.
+I don’t have any debt to compare, but I do have a credit card that I use for my daily transactions. With no overdue payments, my interest earned for the month was R0.05 and fees totaled R53.55. This fee consists of a monthly fee of R40 with the rest forced insurance. If I made use of the credit facility this monthly cost of debt would be much higher.
 
 **The winner by a high margin** when it comes to access to loans is **DeFi**. They win on both fees, options and accessibility and there simply is no comparison between the two.
 
@@ -149,19 +149,23 @@ Unfortunately I don’t have any debt to compare, but I do have a credit card th
 
 This is a tricky one and more complex for what my current skill level permits in terms of internet security. So let’s stick to what I do know and what it means to the average user out there.
 
-A bank is pretty safe and hacking a bank a low probability as most banks still run on mainframe systems (or did last time I checked) of which the people who work there don’t understand it all, let alone an outsider. If I loose my card or my wallet is stolen, I simply report it, pay a small penalty and it is resolved. When I forget my pin, I simply reset it. No problem.
+A bank is pretty safe from a physical perspective. Hacking a bank has a low probability as most banks still run on mainframe systems (or did last time I checked). If I loose my card or my wallet is stolen, I simply report it, pay a small penalty and it is resolved. When I forget my pin, I simply reset it. No problem.
 
-In the DeFi world it’s not so easy. There’s no number you can call when you forget your pin and if you make the wrong payment by accident, no turning back. It’s also more probable that it will be hacked and when this happens, there’s no-one to call to correct the injustice. Simply count your losses and move on.
+Banks also generally will honor the money in your account and unless everyone wants to withdraw their funds at the same time, you are guaranteed of getting your money back. Theoretically.
 
-That being said, there are a lot of work being done to make this private key more ‘human’ and the concept of a guardian is now available. Personally, I’m quite happy taking responsibility for my own money knowing if something happens it is *my* mistake and not anyone else’s.
+In the DeFi world it’s not so straight forward. You can choose to make use of hot or cold storage, meaning on the internet (hot) or on a hardware device not connected to the internet (cold).  You can also choose wallets and exchanges which is [custodial or non-custodial](https://blockgeeks.com/guides/custodial-vs-non-custodial-wallet/).  A custodial service provider is similar to a bank and in effect hold your asset on your behalf, while a non-custodial option merely gives you a doorway to access your own assets on the blockchain.  
+
+Most blockchain enthusiast will opt for a non-custodial account as there's a saying that if you don't own the private key to your crypto, it's not your crypto.  Although it might be more convenient to entrust your assets to a service provider or exchange, it is more risky, as blockchains can be hacked and an exchange is as good as its reputation.
+
+If you opt for a non-custodial option, you are in full control of your assets, but as the saying goes, with great freedom comes great responsibility.  There's no-one to call when you forget your seed phrase or account details.  You can't reverse an accidental incorrect payment. And if the service provider aren't able to fulfil their promise, there's no-one to call.  You simply have to count your losses and move on.
+
+That being said, there are a lot of work being done to make this private key more ‘human’ and the concept of a guardian is now available. There's also easier options for private keys, including facial recognition as [Zengo ](https://zengo.com/)does which doesn't require any pin or access code, simply your face.  Personally, I’m quite happy taking responsibility for my own money knowing if something happens it is *my* mistake and not anyone else’s.
 
 In terms of accessibility of assets, or getting it out of safe storage, it’s *generally* easy enough when held in a bank.
 
-Unlucky me, however, have emigrated to another country and even though I had enough and very legal money available, struggled to get access to it in my new country due to bureaucracy and rules in my old country. I thought it would be a simple international transaction. It ended up taking weeks and a lot of paperwork.
+Unlucky me, however, have emigrated to another country and even though I had enough and very legal money available, struggled to get access to it in my new country due to bureaucracy and rules in my old country. I thought it would be a simple international transaction. It ended up taking weeks and a lot of paperwork. Generally though, accessing your money in your own country should be straightforward and easy.
 
-I also don’t think that when the banks go bankrupt they are going to care much about me, so I would be inclined to risk the online fraud and managing my own private key over trusting a centralized bank with my assets. Especially when the cost vs the interest ratio often results in a negative growth for assets. After all, if I pay for a service I would like to get some!
-
-**DeFi is thus the winner** purely because I trust mathematics and cryptography and open source code more than banks and government to treat me fairly.
+**DeFi is the winner** in this area purely because I trust mathematics and cryptography and open source code more than banks and government to treat me fairly.  The technology is also evolving much faster than banks with easier and safer options increasing each day.
 
 On the downside, however, there are a lot of options to choose from and without sound advice from someone you trust, the chances of putting your money in a fraudulent crypto wallet is much higher than with the highly legislated bank industry. So from a comfort and ease point of view traditional banking wins but from a trust point of view DeFi wins.
 
