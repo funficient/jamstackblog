@@ -100,30 +100,30 @@ Ethereum might be great for a fun or personal project and to break free from the
 
 The ugly of the blockchain (DeFi specifally) is that centralized hubs that access and store personal documents are forced at all access points, thus breaking the most fundamental principle of the block chain, namely decentralization.  This is of course not Ethereum or any blockchain's fault, but still something to take into consideration.
 
-It might still be easier to open a financial account in a European run company than opening a European bank account from South Africa — where I live — but I kept running into the same wall when randomly choosing a wallet or exchange. South Africa is not supported, or getting funds into my wallet is not supported with my currency, or getting money out is a problem. It is a similar discrimination than before based on geographic location. Probably only because they haven’t had time to catch up yet and hopefully this will change.
+It might still be easier to open a financial account in a European run company than opening a European bank account from South Africa — where I live — but I kept running into the same wall when randomly choosing a wallet or exchange. South Africa is not supported, or getting funds into my wallet is not supported with my bank account, or getting money out is a problem. It is a similar discrimination than before based on geographic location. Probably only because they haven’t had time to catch up yet and hopefully this will change.
 
-The primary reason for using a block chain is the promise of decentralization. Paying gas fees are not ideal, but I can still find a justification for it and look past it. I can’t, however, find any justification to validate the KYC process at all the major exchanges, which breaks not only the rule of decentralization, but also that it is now storing personal information on the block chain.
-
-The *reasons why I could find for KYC to be necessary doesn’t really make sense and from where I stand looks as if the broken fiat bank rules and systems are being moved to the digital world, rather than being replaced with something better and more fair for the masses.*
-
-Most countries don’t classify crypto currencies as financial assets, thus is not considered ‘money’ that technically requires KYC. It’s rather the same than buying a sofa or a digital software program and I definitely don’t need to be KYC’ed in order to do that, so why for buying crypto assets?
+Most countries don’t classify crypto currencies as financial assets, thus is not considered ‘money’ that technically requires KYC. It’s rather the same as buying a sofa or a digital software program or car and I don’t need to be KYC’ed in order to do that, so why for buying crypto assets?
 
 The reasons provided to justify the need for KYC relates to the prevention of fraud and terrorism, but this seems rather superficial seeing that all transactions are transparent on the block chain and hiding money is far easier in fiat banks than on the block chain. KYC hasn’t stopped drug smuggling or sex trafficking either, so it’s just not a good enough reason for me.
 
 *But, that’s my opinion and I have a very limited perspective. Make up your own mind.*
 
+I would just prefer that if we're going through the effort of rebuilding a system we do it differently, better.  Currently, we're mostly just moving the structures that weren't working so well to web3, and it is breaking the very essence of the chain.
+
 # And the verdict is….
 
-For investment and trading when you have extra cash on hand I highly recommend Ethereum as one of the strongest performers on the crypto currency arena.
+For investment and trading when you have extra cash on hand I highly recommend Ethereum as one of the strongest performers on the crypto currency arena.  The growth is higher than most other currencies and the platform is growing exponentially and won't stop soon.
 
-For DeFi applications Ethereum is a great alternative to fiat banking even though it only makes sense for larger transactions. Daily transactions simply doesn’t justify the cost of gas and maybe Ethereum 2.0 makes the problem smaller, although I doubt it. Until you can’t buy bread and milk using crypto it won’t be globally accepted as a solution to fiat.
+For DeFi applications Ethereum is a great alternative to fiat banking even though it only makes sense for larger transactions. Daily transactions simply doesn’t justify the cost of gas. Until you can’t buy bread and milk using crypto it won’t be globally accepted as a solution to fiat.
 
-For building a business venture or startup that is not financial in nature Ethereum is most probably not the best choice of technology, however, the other block chain alternatives might be a good solution and definitely something worth looking into. The decentralized model is something that should grow, rather than disappear, in my opinion.
+For building a business venture or startup that is not financial in nature, Ethereum is most probably not the best choice of technology, however. There are many other blockchains that is faster, cheaper, and more scalable. 
 
 For a document processing and storage solution provided free of charge and with high usage by the general public, Ethereum would definitely not be my recommendation. Each individual will have to create a wallet and fund for each transaction, which is more expensive and more difficult than the current paper process in place. To process each document there will need to be an estimate of 3–5 transactions at least, which means that it will in fact cost more than the paper trails currently in use.
 
 There are of course benefits, including the permanence of records and inability to tamper with it, more accurate and real-time statistics available and more, but this can be done on existing technology.
 
 So even in a digital world, sometimes it makes more sense to go with low-tech or no-tech to improve a user experience. Just because you can, doesn’t mean you should. *Only digitize if it is an improvement.*
+
+
 
 Originally written on https://medium.com/swlh/to-ethereum-or-not-to-ethereum-2bc2bb44ec25
