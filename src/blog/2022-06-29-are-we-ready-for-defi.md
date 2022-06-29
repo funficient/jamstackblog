@@ -83,47 +83,53 @@ I compared my current [Capitec Bank](https://www.capitecbank.co.za/) experience 
 
 From a service offering perspective, however, they have less sophisticated products on offer compared to the big 5 banks.  As a rather average consumer, I see this as a benefit rather than a disadvantage though as I don't have to do extensive research and make difficult comparisons to choose the best product for me.
 
-
-
-For DeFi I looked for specific offerings that would allow me to perform the same functions as what I currently do with a centralize bank with no previous knowledge or affiliation with any of the products. I was literally a blank slate as I embarked on my research and went on recommendations from economists and other more knowledgeable people from various and diverse sources.
-
-But I digress.
-
-Let’s compare the value proposition between DeFi and CeFi.
+On the DeFi side I looked for specific offerings with a good public reputation that would allow me to perform the same functions as what I currently do with a centralize bank.  Of course, there are a multitude of options available to my selection is very small but representative. So let’s compare the value proposition between DeFi and CeFi.
 
 ## 1. Interest rate on savings
 
-Capitec offers 3–8.5% interest your transactional account with the full 2020 interest rates available [here](https://www.capitecbank.co.za/global-one/save/rates-and-fees/). Simply having money in my transaction accounts offers me 3% interest, and having more than R25,000 increases it to 4.1%, which is pretty good for banks. Most months, they pay me to bank with them, which I feel is a fair deal as they use my money to trade and invest and earn interest while keeping it. Win-win. I like it.
+Capitec offers 3–8.5% interest your transactional account with the full fees and interest rates available [here](https://www.capitecbank.co.za/global-one/save/rates-and-fees/). Simply having money in my transaction accounts offers me 3% interest, and having more than R25,000 increases it to 4.1%, which is pretty good for banks. Most months, the bank pays me to bank with them, which I feel is a fair deal as they use my money to trade and invest and earn interest while keeping it. Win-win. I like it.
 
-On DeFi there are a multitude of options to choose from and [lending rates](https://defirate.com/lend/) varies from as low as 0.01% to as high as 12.27%. The only difference is that with a bank the banker chooses where to invest and trade my money, whereas on DeFi I’m in full control of where my money is invested. O, and of course, there’s no paperwork. BIG benefit!
+On DeFi there are a multitude of options to choose from and [lending rates](https://defirate.com/lend/) varies from as low as 0.01% to as high as 12.27%.  Selecting a reputable and trustworthy option is much harder as many of the higher interest bearing options are more risky and don't have the assets to back it, thus you need to do a lot more work to verify the trustworthiness of your selection which I think is a disadvantage compared to banks.  A disadvantage, however, that I choose because at least I am in full control of where my money is invested compared to a bank.
 
-I didn’t have the courage to actually save and simply kept my tokens in my wallet (roughly the equivalent of a bank account), where I was pleasantly surprised to see the volatile but upward trend.
+Another huge benefit is that there’s no to little paperwork with DeFi compared to the painful, slow, and time consuming traditional bank offer. BIG benefit!
 
-Simply storing money in a CeFi account vs a DeFi account, without investing, lending or trading, is more risky and volatile in DeFi, but with much higher growth than the no-growth of CeFi.
+Saving on DeFi yields a steady income, however, it is extremely volatile and the service provider I use change the interest rates quite substantially as they please (or justify).  At a bank the interest rates are more stable and predictable, but with more restrictions and less options.
 
-But interest is the one part of the equation and on the other hand is the fees. My Capitec bank account totals R6.50 per month (which is pretty much free) with very straight forward fees. Card transactions are free with payments R1.50 per transaction and a monthly R5.00 standard account fee.
+The bigger benefit, however, to the small income from interest, is the volatile but upward trend where my money tripled over the course of a year.  Simply storing money in a CeFi account vs a DeFi account, without investing, lending or trading, is more risky and volatile in DeFi, but with much higher growth potential than the no-growth of CeFi.
 
-Comparing this to DeFi is *very* hard as the fees are not as straightforward or fixed. There are no standard monthly fees to have a wallet. However, each transaction includes what is called gas, or a transaction fee, which changes based on the load on the network. To complicate matters even more, it is presented in the ETH format which similar to the bitcoin format consist of a large number of decimal points, way too complicated for an average person to exchange in their heads.
+## 2. Fees
 
-![](https://miro.medium.com/max/1400/1*BNkRw-uPNVl7U6ymtdb57g.jpeg)
+My Capitec bank account totals R6.50 per month for my account fee (which is pretty much free) with very straight forward and low transaction fees. Card transactions are free with payments R1.50 per transaction.  To put things into perspective, this means a total transaction fee per month  for a centralized bank account for less than 50c in US Dollars.
 
-Typical ETH transaction.
+Comparing this to DeFi is *very* hard as the fees are not as straightforward or fixed. There are no standard monthly fees to have a wallet. However, each transaction includes what is called gas, or a transaction fee, plus a network fee depending on the blockchain you transact on.  The gas fee and network fee changes based on the load on the network and can be as much as $30 per transaction to 30cents for the same transaction amount. 
 
-It typically looks like this.
+To complicate matters even more, it is often presented in the crypto format which consist of a large number of decimal points, way too complicated for an average person to exchange in their heads.
+
+![Typical ETH transaction via Luno wallet and exchange.](https://miro.medium.com/max/1400/1*BNkRw-uPNVl7U6ymtdb57g.jpeg)
+
+A typical transaction looks like this.
+
+You have to get money into the blockchain, usually from fiat banks.  This might cost something and is dependant on your country of residence and the service provider.  In my case, a bank deposit from my local bank in South Africa is free, however, takes about 2 days, meaning I can't ever make a quick buy in such a volatile market.
+
+Most wallets directly exchange your money into the crypto currency of your choice, while in the case of Luno, there's a holding pocket where you can keep the money in your local currency until you are ready to buy crypto.  This is where things get interesting and rather expensive.
 
 I exchanged R569.42 and I got BTC 0.0032816 at an exchange rate of 170 117 BTC / ZAR.
 
-There is an *estimated* fee of R11.39 and in all honesty I don’t know how this is calculated. The 2% fee is the service provider’s fee and I don’t know whether the gas is added on top of this or included in the estimate.
+There was an *estimated* fee of R11.39 which I am not sure how it is calculated, but is about 2% of the *transaction* amount.  I write this in italics because the impact of this is huge and the biggest barrier to mass adoption in my opinion.  Imagine giving away 2% of your income just for depositing your money.  No centralized bank charges this much for transactions and most salaries are deposited free of charge to the user.
 
-This is the fee for buying the bitcoin, which is higher than most exchanges, so be very careful to do your homework before you sign up. They also charge a fee for depositing the money and when I finally withdrew it was again charged a similarly high fee. Having read their fee structure beforehand made it sound much cheaper than what my actual experience was, so my trust of course immediately dropped.
+Different blochains have very different fee structures, thus again something that complicates choosing assets and chains to transact on immensely compared to banks.
+
+When you decide to use, withdraw or exchange your crypto, you again will pay a similar fee.   Thus, it's great for large transactions, but extremely expensive for day-to-day expenses (what I call milk money).
+
+The fee structure for [crypto fees](https://www.luno.com/en/countries) is overly complicated and there is different fees for buying, selling, receiving, sending and trading.  On top of that, there's different fees for different chains and currencies, and each wallet and exchange offer their own fees, making it close to impossible to compare.  
 
 The upward growth of the currency compensates for the high fees and most people probably don’t put much thought into it, but all in all **I lost about R61,67** on my initial investment of **R1, 000** even though the growth was 15% and 32% respectively on Bitcoin and Ethereum.
 
-The R1 000 I deposited ended up being R938,33 in value after a month. Maybe I was unlucky. But DeFi is definitely not living up to the promise of fast and cheaper than traditional from a pure practical perspective.
+The R1 000 I deposited ended up being R938,33 in value after a month. After about a year it was worth close to double though.  So very unpredictable and not feasible for daily expenses.
 
 The **winner in terms of daily savings (liquid option) thus is Capitec** with the ease, accessibility and stability offered. For longer term investments I would however opt for DeFi as the growth is so much higher and the fee structure is per transaction whereas with a bank it is monthly.
 
-However, the average user wants a simple savings account and the ability to transact daily. Investments or long term savings are usually done via a financial service provider outside the bank.
+However, the average user wants a simple savings account and the ability to transact daily.
 
 ## 2. Access to loans or credit
 
@@ -230,7 +236,5 @@ It is getting better by the day and I predict that it will become the preferred 
 However, be responsible and do your due diligence. With great freedom comes great responsibility.
 
 <!--EndFragment-->
-
-
 
 *Originally published on medium https://funficient.medium.com/are-we-ready-for-defi-16fff0c4ef37*
