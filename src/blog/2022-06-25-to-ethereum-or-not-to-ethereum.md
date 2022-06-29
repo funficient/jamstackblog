@@ -82,11 +82,11 @@ This, in my opinion, is the main reason why it is still so small relative to the
 
 The justification is that it is a small fee, only a few cents (which in practice sometimes is and sometimes not and depends very much on your base for cents as the South African Rand for example is much weaker than the Dollar), and that it reduces spam. Although there is merit in this reasoning, in practice, I don’t quite agree with it.  Especially when I see gas being burned, meaning it's too much (from my lay person perspective).
 
-The current internet is free to use. Most digital products offer a free option which in today’s crowded market is essential to filter out the empty promises from the actual quality products available and to see whether it solves your problem. Free or crowdsource means building what matters and listening to the users, something that the previous generation of software developers seriously failed at and the main reason why we’re in search of alternatives.
+The current internet is free to use. Most digital products offer a free option which in today’s crowded market is essential to filter out the empty promises from the actual quality products available and to see whether it solves your problem. Free or crowdsource means building what matters and valuing user needs.
 
-Ethereum, however, is changing this model with providing *nothing* for free.
+Ethereum, and block chain in general, is changing this model with providing *nothing* for free.
 
-Transactions are also not immediate and can take up to 15 minutes, which is still an improvement when compared to a forex bank transaction, but breaks the promise of fast and free transactions globally.
+Transactions are also not immediate and can take up to 15 minutes, which is still an improvement when compared to a Forex bank transaction, but breaks the promise of fast and free transactions globally.
 
 Ethereum 2.0 attempts to solve both the gas fee and the transaction speed problems, yet, from what I can see (and I know very little) the new staking to mine is in fact excluding rather than including more people. The argument for sharding was to make mining more accessible without specialized and expensive hardware. At 32 ETH — which at the time of writing this post was worth more than $12, 000 — you can buy a few gaming PC’s, all which can currently comfortably run mining programs. It also adds this money to be staked for a few years with penalties. So if you don’t have a high-speed internet connection with a permanently connected device running, you risk losing some of your stake.
 
