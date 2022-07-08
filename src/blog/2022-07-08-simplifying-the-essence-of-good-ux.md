@@ -92,8 +92,6 @@ This is probably the best example of pre-empting the next step in the user exper
 
 When I think of a really good user experience, I think of the IKEA experience.
 
-![](https://miro.medium.com/max/1400/1*hTB1u5R3QZjmMImYyg2FPg.jpeg)
-
 From the moment you enter an IKEA store you are guided in a one-way direction throughout the store, with shortcuts and openings at strategic places to cater for people looking for something specific. You always know exactly where you are and there’s no chance of getting lost or going in the wrong direction. This frees your active memory to allow you to focus on enjoying the shopping experience, rather than figuring out where you are or where you want to go.
 
 Each section adds context with inspiration corners showing you how to put different elements within the store together. There isn’t just sofa’s, there are sofa’s with scatter cushions, throws, candle’s, side tables, mugs, plants and more. The bedroom area doesn’t just display beds, there are also soft finishes like curtains, bedding and lamps. They show you how to use different products by displaying it throughout the store.
