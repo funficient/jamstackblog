@@ -2,7 +2,7 @@
 title: Simplifying the essence of good UX
 description: The process of user experience design can get complicated and
   involved and somewhat confusing. However, the essence of a good user
-  experience is quite simple.
+  experience is quite simple. Here's how.
 tags:
   - post
   - featured
