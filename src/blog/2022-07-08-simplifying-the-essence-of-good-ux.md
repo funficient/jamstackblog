@@ -12,7 +12,7 @@ image: /assets/blog/kelly-sikkema-v9fqr4tbiq8-unsplash.jpg
 imageAlt: What is the essence of a good user experience?
 canonical: https://funficient.medium.com/the-essence-of-good-ux-explained-6959b8a5a04e
 ---
-## How to design products and services
+## How to design products and services that delights
 
 The process of user experience design can get complicated and involved and somewhat confusing. However, the essence of a good user experience is quite simple. This post outlines the three most important elements of a good user experience.
 
@@ -111,7 +111,5 @@ Information is given just-in-time as you need it with strategically placed displ
 Putting all these elements together, plus of course the quality and innovative design of the products, make shopping at IKEA a pleasurable experience.
 
 *If you need an objective assessment of your product’s user experience, or guidance in how to create a great user experience, book an introductory no-obligation call at <https://www.funficient.com/> or sign-up for a month-to-month package.*
-
-
 
 *Originally published on Medium: https://funficient.medium.com/the-essence-of-good-ux-explained-6959b8a5a04e*
