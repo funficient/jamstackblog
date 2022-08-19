@@ -5,6 +5,7 @@ description: What goes on in the mind of a hacker?  What motivates someone to
   into the minds of hackers.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2017-07-11T10:44:52.788Z
 image: /assets/blog/markus-spiske-iar-afb0qqw-unsplash-1-.jpg
