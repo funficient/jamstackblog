@@ -8,6 +8,7 @@ description: Scrum changed the world. But it is a process framework for
 tags:
   - post
   - featured
+  - process
 author: Kate Dames
 date: 2022-06-22T15:35:09.231Z
 image: /assets/blog/rishabh-dharmani-x0gw9yspcr4-unsplash.jpg

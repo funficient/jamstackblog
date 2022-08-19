@@ -6,6 +6,7 @@ description: Remote work result in zoom fatigue when you don't invest in
   location.  Because together is always better.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2021-06-13T09:32:55.440Z
 image: /assets/blog/pexels-andrea-piacquadio-935743.jpg

@@ -6,6 +6,7 @@ description: Some of my best memories involves live music. When a group of
   of making music. But it takes more than talent to create a great team.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2022-05-10T17:52:12.711Z
 image: /assets/blog/pexels-rodnae-productions-7502583.jpg

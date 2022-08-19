@@ -6,6 +6,7 @@ description: Crafting user stories that’s not too big and not too small is an
   requirements.
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2022-01-31T07:13:54.379Z
 image: /assets/blog/didssph-pb80d_b4g7c-unsplash.jpg

@@ -5,6 +5,7 @@ description: Hybrid work is here to stay.  But how do you engage part virtual
   inlusive warmer for your next meeting.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2021-10-12T09:09:54.167Z
 image: /assets/blog/andy-kelly-0e_vhmvql9g-unsplash.jpg
