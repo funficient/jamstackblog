@@ -1,0 +1,21 @@
+--- 
+title: Blog
+layout: 'base.njk'
+--- 
+       
+<div class="section container">
+<h1 class="section-title">Product</h1>
+<div class="section-separator"></div>
+
+<ul role="list" class="articles__list flow"><li>
+
+  {%- for post in collections.product | reverse -%}
+    
+    {% include "article-snippet.njk" %}
+
+  {%- endfor -%}
+
+</ul>
+
+</div>
+
