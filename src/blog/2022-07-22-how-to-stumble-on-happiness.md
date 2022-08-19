@@ -6,6 +6,7 @@ description: "Most people view unhappiness as an unwelcome guest. They don’t
   to be willing to feel the unhappiness.  "
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2018-11-29T12:40:56.651Z
 image: /assets/blog/atikh-bana-_kamtemjnxy-unsplash.jpg

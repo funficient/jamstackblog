@@ -7,6 +7,7 @@ description: Agile is an adjective, not a noun.   It requires a different way of
   next.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2020-01-15T07:58:32.925Z
 image: /assets/blog/sigmund-by-tzimt0ms-unsplash.jpg

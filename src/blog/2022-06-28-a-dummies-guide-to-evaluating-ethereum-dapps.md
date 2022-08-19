@@ -6,6 +6,7 @@ description: Like the Google Play Store though, there are so many choices that
   the chaos.  How do you choose the best one for you?
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2020-05-21T13:12:42.563Z
 image: /assets/blog/stephen-leonardi-lzgibl8drpm-unsplash.jpg

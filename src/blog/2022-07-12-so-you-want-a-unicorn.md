@@ -5,6 +5,7 @@ description: There are many more failures than successes. Startup success and
   reason for failure and how to master your judgement emotional intelligence.
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2019-03-21T09:32:46.379Z
 image: /assets/blog/alex-rybin-ne5nshvl6nm-unsplash.jpg

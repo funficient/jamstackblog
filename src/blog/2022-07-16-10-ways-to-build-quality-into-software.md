@@ -6,6 +6,7 @@ description: “Can Quality be built into software?” Ultimately, the level of
   responsibility.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2019-02-19T10:28:45.912Z
 image: /assets/blog/towfiqu-barbhuiya-0zuobtlw3y4-unsplash.jpg

@@ -6,6 +6,7 @@ description: An ending is that akward space before a new beginning.  But how do
   to end a project.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2019-01-14T12:04:24.190Z
 image: /assets/blog/nick-fewings-ptw_2g55u8w-unsplash.jpg

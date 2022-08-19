@@ -6,6 +6,7 @@ description: "Money is not the only currency and paths are made by walking.
   money.  Disrupt by offering reverse auctions to get what you want. "
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2018-10-15T08:13:15.281Z
 image: /assets/blog/towfiqu-barbhuiya-0hvzrrsrbc8-unsplash.jpg

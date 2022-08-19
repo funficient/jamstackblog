@@ -6,6 +6,7 @@ description: Hell yes! The answer, or rather my answer, to Nuno Rafael Gomes
   agile.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2017-09-25T07:48:24.949Z
 image: /assets/blog/prapoth-panchuea-uxrkjy0wjz4-unsplash-1-.jpg

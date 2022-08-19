@@ -6,6 +6,7 @@ description: "Having a difficult conversation is hard.  Not talking about things
   organization. "
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2019-07-07T14:27:07.468Z
 image: /assets/blog/sai-de-silva-ylms82lf6fy-unsplash.jpg

@@ -6,6 +6,7 @@ description: If you want your business to grow exponentially, increasing price
   value and view payment as feedback, as a waiter would looking at his tip.
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2017-12-15T13:26:38.820Z
 image: /assets/blog/samuel-regan-asante-jjlkgac4oum-unsplash-1-.jpg

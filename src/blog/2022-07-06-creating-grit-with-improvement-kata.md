@@ -6,6 +6,7 @@ description: Through discipline comes freedom.  Continuously practicing
   habit of continuous improvement.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2019-07-01T14:38:18.508Z
 image: /assets/blog/thao-le-hoang-iglzpkovznw-unsplash.jpg

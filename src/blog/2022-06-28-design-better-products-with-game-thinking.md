@@ -7,6 +7,7 @@ description: "It's easy to get lost in the details when building or designing
 tags:
   - post
   - featured
+  - process
 author: Kate Dames
 date: 2020-07-09T12:59:03.132Z
 image: /assets/blog/jason-leung-hbgyvokxu8a-unsplash.jpg

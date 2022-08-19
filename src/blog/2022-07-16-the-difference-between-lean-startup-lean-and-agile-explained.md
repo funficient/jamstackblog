@@ -6,6 +6,7 @@ description: Choosing the right tool at the right time can be the difference
   methodologies.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2018-12-24T12:12:57.076Z
 image: /assets/blog/daria-nepriakhina-zocdwpuirua-unsplash.jpg

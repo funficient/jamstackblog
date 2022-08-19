@@ -6,6 +6,7 @@ description: Society is designed to remove fun from your life. Fun is something
   to your boring day.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2018-04-24T10:18:39.124Z
 image: /assets/blog/leo-rivas-r_blogxpsog-unsplash.jpg

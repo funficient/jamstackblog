@@ -6,6 +6,7 @@ description: Scrum changed how most organizations do software development.  But
 tags:
   - post
   - featured
+  - process
 author: Kate Dames
 date: 2017-09-30T07:43:17.287Z
 image: /assets/blog/tim-umphreys-dtf5rpfonqk-unsplash-1-.jpg

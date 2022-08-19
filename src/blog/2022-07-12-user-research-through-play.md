@@ -7,6 +7,7 @@ description: Children are by far more creative than most adults I’ve met. They
 tags:
   - post
   - featured
+  - product
 author: Kate Dames
 date: 2019-03-29T09:18:51.476Z
 image: /assets/blog/steven-libralon-do1gqljlnk8-unsplash.jpg

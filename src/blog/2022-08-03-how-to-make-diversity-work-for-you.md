@@ -5,6 +5,7 @@ description: Skin color, facial features, age and nationality says something
   sheds light on the capacity for embracing diversity.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2017-12-01T13:50:00.455Z
 image: /assets/blog/john-schaidler-9v3q2w_mrle-unsplash-1-.jpg

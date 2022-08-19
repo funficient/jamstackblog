@@ -6,6 +6,7 @@ description: Scrum is good. It might even be the golden bullet you’ve been
   problems.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2022-08-01T09:30:33.050Z
 image: /assets/blog/ferenc-horvath-4gkhjkg7ty4-unsplash-1-.jpg

@@ -5,6 +5,7 @@ description: Agility is the ability to quickly adapt and change direction at
   a few guidelines on how to grow an agile mind.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2019-03-06T09:45:26.389Z
 image: /assets/blog/miquel-parera-yb7ghv4dsa4-unsplash.jpg

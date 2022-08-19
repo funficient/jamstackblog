@@ -4,6 +4,7 @@ description: Being locked down with nowhere to go can be challenging. Here's
   some easy things you can do to brighten up your day.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2020-04-03T14:15:30.164Z
 image: /assets/blog/ben-j1fbr-u0cgg-unsplash.jpg

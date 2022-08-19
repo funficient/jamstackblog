@@ -7,6 +7,7 @@ description: For Kaizen to be successful, it has to become a culture. It’s a
   year.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2017-10-29T07:38:31.854Z
 image: /assets/blog/patricia-prudente-eo0vbi3q8ss-unsplash-1-.jpg

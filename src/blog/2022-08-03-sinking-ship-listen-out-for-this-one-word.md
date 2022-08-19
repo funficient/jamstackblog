@@ -6,6 +6,7 @@ description: The Titanic sunk not because there wasn't early warning signs.  It
   back and be honest about the reality of where they are.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2017-12-17T13:37:16.519Z
 image: /assets/blog/matteo-miliddi-kxn6gcymnx0-unsplash-1-.jpg

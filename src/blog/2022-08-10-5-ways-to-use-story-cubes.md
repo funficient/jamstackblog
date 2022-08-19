@@ -5,6 +5,7 @@ description: Want to be more creative and fun at work?  Use story cubes to
   to use it.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2017-11-16T07:32:11.353Z
 image: /assets/blog/andrey-metelev-deuansgqjns-unsplash-1-.jpg

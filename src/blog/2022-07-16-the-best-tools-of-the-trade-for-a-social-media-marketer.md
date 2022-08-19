@@ -6,6 +6,7 @@ description: "How do you create conversations on social media? If you meet
   Digital is no different, it's just a different channel.  "
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2018-12-11T12:23:56.439Z
 image: /assets/blog/prateek-katyal-xv7-glvblfw-unsplash.jpg

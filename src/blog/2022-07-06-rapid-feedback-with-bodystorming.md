@@ -6,6 +6,7 @@ description: Bodystorming is a fun, collaborative method to identify possible
 tags:
   - post
   - featured
+  - product
 author: Kate Dames
 date: 2019-07-13T13:50:23.965Z
 image: /assets/blog/pexels-cottonbro-6896221.jpg

@@ -5,6 +5,7 @@ description: In the age of the human, money follows passion. If you want a
   and make your customers feel special, as if they matter.
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2018-05-28T07:24:53.965Z
 image: /assets/blog/george-pagan-iii-psifan6_z-k-unsplash.jpg

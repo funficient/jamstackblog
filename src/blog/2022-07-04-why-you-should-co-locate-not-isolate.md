@@ -6,6 +6,7 @@ description: Remote work is an advanced practice for responsible and mature
   of your remote work.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2020-03-20T14:19:28.833Z
 image: /assets/blog/chris-montgomery-smgtvepind4-unsplash.jpg

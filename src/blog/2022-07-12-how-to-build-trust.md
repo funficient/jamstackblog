@@ -5,6 +5,7 @@ description: Trust is a barometer than needs constant attention to keep its
   trust-worthy actions than compromising trust.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2019-05-13T09:43:27.746Z
 image: /assets/blog/jornada-produtora-wiuozicdvq8-unsplash.jpg

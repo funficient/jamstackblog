@@ -6,6 +6,7 @@ description: "Authenticity is about being true to who you are. Most people,
   up alone and miserable. "
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2018-11-03T12:48:03.940Z
 image: /assets/blog/j-balla-photography-lwhcpqbaoak-unsplash.jpg

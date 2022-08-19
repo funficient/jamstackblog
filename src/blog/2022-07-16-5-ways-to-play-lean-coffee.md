@@ -5,6 +5,7 @@ description: Coffee is coffee.  Right?  Not quite.  You only master a concept
   Lean Coffee.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2019-01-15T11:56:53.385Z
 image: /assets/blog/pexels-engin-akyurt-2232704.jpg

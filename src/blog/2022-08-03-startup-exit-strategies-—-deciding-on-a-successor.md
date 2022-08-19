@@ -6,6 +6,7 @@ description: Without a founder breathing a clear vision of changing the world in
   successful?
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2017-12-03T13:43:12.539Z
 image: /assets/blog/liu-yi-qkhrunct1iq-unsplash-1-.jpg

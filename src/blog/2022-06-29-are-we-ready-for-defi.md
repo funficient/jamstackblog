@@ -5,6 +5,7 @@ description: Crypto is the new money.  For the past few years a few pioneers
   ready to replace centralized options for a non-corruptable alternative yet?
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2020-05-19T10:38:19.500Z
 image: /assets/blog/wance-paleri-nvzqct9lzmu-unsplash.jpg

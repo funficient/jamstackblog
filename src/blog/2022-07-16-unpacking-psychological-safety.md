@@ -5,6 +5,7 @@ description: High performance teams are teams who trust each other. Teams who
   what they need. But how do you create psychological safety in the workplace?
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2018-12-19T12:20:15.011Z
 image: /assets/blog/claudio-schwarz-l8ipde99z9c-unsplash.jpg

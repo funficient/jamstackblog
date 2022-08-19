@@ -6,6 +6,7 @@ description: Agile documentation is not that easy. There’s no right or wrong
   organization and the relationships, to name a few.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2022-07-16T10:34:24.906Z
 image: /assets/blog/gabrielle-henderson-5hqtjt2l9gw-unsplash.jpg

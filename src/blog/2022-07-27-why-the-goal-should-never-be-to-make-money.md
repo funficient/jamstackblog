@@ -6,6 +6,7 @@ description: Money is a tool to enable us to get what we want.  But everything
   and how would it make you feel.
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2018-04-26T10:09:09.588Z
 image: /assets/blog/roman-synkevych-asjj-aczr7q-unsplash.jpg

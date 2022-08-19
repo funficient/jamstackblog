@@ -8,12 +8,14 @@ description: If your system under test is too complex or complicated to
 tags:
   - post
   - featured
+  - process
 author: Kate Dames
 date: 2020-07-10T18:21:24.409Z
 image: /assets/blog/pexels-amina-filkins-5561177.jpg
 imageAlt: Sometimes traditional methods just don't do.
 canonical: https://medium.com/teal-times/testing-complex-systems-with-play-122760e03d00
 ---
+
 ## Accelerated results with playful design
 
 I’ve been testing software for a long time. In fact, my first job was as a tester. In an industry where it evolves faster than what it is possible to keep up with, I wouldn’t consider myself — or anyone as a matter of fact — as a master in software testing, but I have completed the 10, 000 hours of mastery required to qualify me as, at least, competent in the art of software testing.
@@ -46,10 +48,10 @@ Where a decision table to plot the possible test cases were a great tool to ensu
 
 You catch my drift.
 
-And that’s just sign up. A mere *prerequisite* to actually using your system.\
+And that’s just sign up. A mere _prerequisite_ to actually using your system.\
 Even if you do have unlimited budget and can afford to add more and more testers, by the time they would finish the planned tests the market place would have shifted so much that your solution would no longer be a fit for what it was designed for.
 
-*So what do you do?*
+_So what do you do?_
 
 You could scream and pull out your hair while throwing around your weight as test manager demanding more from your already overworked testers. And it might even work for a short while.
 
@@ -59,7 +61,7 @@ But you don’t use a hammer to fasten a screw and you don’t use a muffin tray
 
 # Playtest or Playful test?
 
-In gaming the word used for the equivalent of validation or acceptance testing is called *“playtesting”*. When I first heard that word, I was immediately intrigued. *Playtest?*
+In gaming the word used for the equivalent of validation or acceptance testing is called _“playtesting”_. When I first heard that word, I was immediately intrigued. _Playtest?_
 
 Being very interested in play mechanics and using play as a tool to engage and motivate teams, I explored a bit more. What I discovered is that it’s nothing other than acceptance testing with the difference being the attitude of the player and the involvement of the developer. It’s effectively blending functional testing and usability testing into a single iteration of test.
 
@@ -89,11 +91,11 @@ On small index cards, write the different persona types adding an adjective to d
 
 Adding an adjective gives more context to a user. It describes how they will interact with the system and what their unique needs will be. An angry tenant might be impatient in getting a response. A snobbish agent might be more pedantic in finding issues when doing an inspection, and a busy landlord might want to bypass parts of the workflow or do an action in a more efficient way than an agent.
 
-The adjective is also the *invitation* to play.
+The adjective is also the _invitation_ to play.
 
 But that’s all it is.
 
-An *invitation*.
+An _invitation_.
 
 > There’s no such thing as forced fun.
 
@@ -121,7 +123,7 @@ Probably the most basic rule of play is the concept of randomness. To create a m
 
 ## Step 3 — Team setup
 
-Once you’ve prepared all the different index cards, ***it’s time to play!***
+Once you’ve prepared all the different index cards, **_it’s time to play!_**
 
 Get the team together, consisting of at least the developers, business analysts, designers and testers. Ideally, include a customer proxy and some third party users who has no relationship with the system. Aim for a representative, cross-functional team.
 
@@ -153,14 +155,12 @@ The key to a playful experience is to provide enough structure to create an imme
 
 If your system under test is too complex or complicated to adequately cover with test cases, or if there are simply too many variables to test within limited timeframes, consider adding playful test to your test strategy.
 
-*Read more about play and playful design or visit [www.funficient.com](http://www.funficient.com) :*
+_Read more about play and playful design or visit [www.funficient.com](http://www.funficient.com) :_
 
-*[The rules of play](https://medium.com/teal-times/the-rules-of-play-a6109c363b3a)*
+_[The rules of play](https://medium.com/teal-times/the-rules-of-play-a6109c363b3a)_
 
-*[Design better products with Game Thinking](https://uxdesign.cc/design-better-products-with-game-thinking-3cde5ce21c26)*
+_[Design better products with Game Thinking](https://uxdesign.cc/design-better-products-with-game-thinking-3cde5ce21c26)_
 
-*[The top 10 ingredients of fun](https://medium.com/teal-times/top-10-ingredients-of-fun-b9b14b82f1d6)*
-
-
+_[The top 10 ingredients of fun](https://medium.com/teal-times/top-10-ingredients-of-fun-b9b14b82f1d6)_
 
 Originally written at https://medium.com/teal-times/testing-complex-systems-with-play-122760e03d00

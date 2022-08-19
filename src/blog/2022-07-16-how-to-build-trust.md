@@ -6,6 +6,7 @@ description: Trust is a barometer. It’s not a milestone that you can reach and
   more trust-worthy actions than compromising trust.
 tags:
   - post
+  - people
 author: Kate Dames
 date: 2019-05-13T09:39:18.263Z
 image: /assets/blog/jornada-produtora-wiuozicdvq8-unsplash.jpg

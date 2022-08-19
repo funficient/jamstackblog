@@ -5,6 +5,7 @@ description: What happens when you put together a bunch of strangers all with
   hours?  It turns out you can.  Here's how.
 tags:
   - post
+  - product
 author: Kate Dames
 date: 2018-03-16T09:36:46.123Z
 image: /assets/blog/alex-kondratiev-h9t723ypjyi-unsplash-1-.jpg

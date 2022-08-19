@@ -6,6 +6,7 @@ description: The process of user experience design can get complicated and
 tags:
   - post
   - featured
+  - product
 author: Kate Dames
 date: 2022-07-08T12:48:58.959Z
 image: /assets/blog/kelly-sikkema-v9fqr4tbiq8-unsplash.jpg

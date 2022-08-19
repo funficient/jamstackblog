@@ -5,6 +5,7 @@ description: The source of most issues at work and in your personal life comes
   happens and give some guidelines as to how to get your message acrosss.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2018-07-08T07:16:35.344Z
 image: /assets/blog/annie-spratt-goholcavtrs-unsplash.jpg
