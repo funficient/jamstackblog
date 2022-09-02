@@ -6,6 +6,7 @@ description: An or point of view is a limited viewpoint. Whereas an and point of
   each other, rather than the differences.
 tags:
   - post
+  - process
 author: Kate Dames
 date: 2017-04-19T11:23:46.982Z
 image: /assets/blog/toa-heftiba-09sxeodtlpe-unsplash-1-.jpg
