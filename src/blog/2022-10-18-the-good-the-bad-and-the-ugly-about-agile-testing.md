@@ -9,7 +9,7 @@ tags:
   - post
   - process
 author: Kate Dames
-date: 2022-10-18T06:26:04.694Z
+date: 2016-08-12T06:26:04.694Z
 image: /assets/blog/pexels-kat-smith-568025-1-.jpg
 imageAlt: Unlocking the secrets of the value of tetsing.
 canonical: https://everydayagile.com/the-good-the-bad-and-the-ugly-about-agile-testing-29b4b847c778
