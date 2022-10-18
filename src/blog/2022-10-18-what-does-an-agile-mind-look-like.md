@@ -10,6 +10,7 @@ description: It’s relatively easy to do agile. It is about following the guide
 tags:
   - post
   - people
+  - featured
 author: Kate Dames
 date: 2016-08-09T08:53:44.215Z
 image: /assets/blog/jesse-orrico-rmwtvqn5rzu-unsplash-1-.jpg
