@@ -8,7 +8,7 @@ tags:
   - post
   - process
 author: Kate Dames
-date: 2022-10-18T09:09:48.480Z
+date: 2016-08-20T09:09:48.480Z
 image: /assets/blog/darwin-vegher-w_zyceuapf0-unsplash-1-.jpg
 imageAlt: Do you see what you need?
 canonical: https://medium.com/teal-times/do-you-clearly-see-what-you-need-49d89c569ee1
