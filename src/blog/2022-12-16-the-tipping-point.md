@@ -1,6 +1,6 @@
 ---
 title: The Tipping Point
-description: A review and summar of The Tipping Point book by Malcolm Gladwell
+description: A review and summary of The Tipping Point book by Malcolm Gladwell
   looking at how small things can result in big change.
 tags:
   - post
