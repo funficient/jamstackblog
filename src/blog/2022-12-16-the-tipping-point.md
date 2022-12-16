@@ -11,6 +11,8 @@ image: /assets/blog/gustavo-torres-rbltws3wsq8-unsplash-1-.jpg
 imageAlt: What makes things tip?
 canonical: https://funficient.medium.com/the-tipping-point-2f60ebeac1a
 ---
+## *Book review*
+
 *An analysis of what makes things go viral. The book breaks down the core elements of change by looking at a diverse set of case studies, including the revival of Hush Puppies in 1996, the reduction of murders in New York by 64% over 5 years, the success of Sesame Street, and more. It is an insightful read that describes the various factors required for tipping point change.*
 
 # Who is it for?
@@ -94,9 +96,5 @@ Tipping point contains a number of practical stories based on relatable products
 The book analyses the main factors needed to reach tipping point and include a number of insights that can help anyone enable change in whatever shape or form is most beneficial to them. The vastly different case studies enable the reader to understand the underlying mechanics of change.
 
 A highly recommended read for anyone interested in change of any kind.
-
-
-
-
 
 *Originally published on Medium: https://funficient.medium.com/the-tipping-point-2f60ebeac1a*
