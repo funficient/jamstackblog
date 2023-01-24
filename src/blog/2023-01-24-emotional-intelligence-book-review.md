@@ -55,7 +55,7 @@ It also outlines a guide for giving critique in an emotional intelligent way, an
 
 ## Checklist for emotional regulation
 
-It ends with more practical tools and tips on how to school the emotions, including a checklist to use when you get triggered emotionally which I love so much I created a little (adapted) checklist for myself!
+It ends with more practical tools and tips on how to school the emotions, including a checklist to use when you get triggered emotionally which I love so much I created a little (adapted) checklist for myself. Download a pdf version to print out **[here](https://drive.google.com/file/d/1N3Aly3U7wcbg4SckkAx0GTmu6Du7744W/view?usp=sharing).**
 
 ![](https://miro.medium.com/max/700/1*H6imY43JKsBZiRIlQ9IDXQ.png)
 
@@ -76,9 +76,5 @@ The book is an easy and interesting read, written in a conversational style fill
 Emotional Intelligence makes the case for why emotions are a fundamental tool for success and possibly more important than IQ. It contains science backed evidence of emotional development and how emotional intelligence can increase your popularity as well as your success in business and relationships in general.
 
 A highly recommended read for anyone interested in having better relationships — whether at work or at home.
-
-
-
-
 
 *Originally published on Medium: https://funficient.medium.com/emotional-intelligence-4213ce1a7178*
