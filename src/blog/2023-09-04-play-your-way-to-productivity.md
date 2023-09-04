@@ -83,11 +83,9 @@ As the app is unlike any other app it doesn't show up as a recommendation in the
 
 `WHEN I am looking for a fun way to work out`
 
-`
-I WANT to ask my friends what running app to use`
+`I WANT to ask my friends what running app to use`
 
-`
-SO THAT I don't have to filter through the overwhelming lists on the app store to find one that works for me`
+`SO THAT I don't have to filter through the overwhelming lists on the app store to find one that works for me`
 
 As the app is usually discovered by word-of-mouth, it is sought out by users already committed to convert to use it, which means that the majority of people finding it also decides to continue to the next phase, namely onboarding, making this probably one of the most effective channels.
 
@@ -97,11 +95,9 @@ Once a user decides to download the app and try it out, they typically want to g
 
 `WHEN I decide to download and try out the app`
 
-`
-I WANT to get started as quickly and efficiently as possible`
+`I WANT to get started as quickly and efficiently as possible`
 
-`
-SO THAT I don't have to spend hours learning and customizing yet another app I'm not even sure I will use again`
+`SO THAT I don't have to spend hours learning and customizing yet another app I'm not even sure I will use again`
 
 Although the setup is not as intuitive and easy as I would like it to be, with the music player as one of the most essential parts to augment the running experience rather confusing to setup, it is relatively quick and easy to get started.
 
@@ -123,9 +119,7 @@ Habit building is by far the most important part of any app.  This is the core l
 
 `WHEN I see the improvement in my well being from these regular runs`
 
-
-`I WANT to have a variety of missions to complete and adapt the difficulty as I get more fit
-`
+`I WANT to have a variety of missions to complete and adapt the difficulty as I get more fit`
 
 `SO THAT I can feel like the hero of my life and anticipate the unfolding story, knowing there's always more to come`
 
@@ -139,9 +133,7 @@ It is a masterful tool to help you get stronger on your run.  It's also one of t
 
 After each run you can use some of the supplies you've picked up on your run to build your world, or you can simply look at your stats, broken down into splits for each kilometer (or mile) run (see example below).  
 
-![Image of a run log](/assets/blog/screenshot_20230901_194517_com.sixtostart.zombiesrunclient.jpg "Run log")
-
-
+![Image of a run log](/assets/blog/stats.png "Run log")
 
 In the previous version there was a monthly stat as well showing how your runs compare to each other for a month, however, the newest version excludes any summary graph, which places the emphasis on entertainment running and less on serious runners.
 
@@ -151,9 +143,7 @@ Mastery is for the loyal users who are also the ambassadors of your brand.  I ha
 
 `WHEN I regularly complete seasons and finally feel like the hero of my life`
 
-
-`I WANT to be treated like a valuable community member `
-
+`I WANT to be treated like a valuable community member`
 
 `SO THAT I can feel valued and experience a sense of belonging`
 
@@ -193,8 +183,6 @@ Another reason why I enjoy radio mode is that while the zombie story can be heav
 
 Flow is an essential part of an engaging experience and this game gets it right!  Being able to change the duration and difficulty of each mission gives me a sense of control and a feeling of freedom.  I don't feel constrained by what the designers want me to do and feel I have choice in how I want to run.  Meaningful choices are another core game mechanic that greatly enhances any experience as it increases the level of autonomy of the player
 
-
-
 ## How to use these insights at work?
 
 So now that we've unpacked the main reasons why the game is fun to play, how might you use these same mechanics in a more serious environment?  Like the workplace?
@@ -226,7 +214,6 @@ Recognize the people who stay late, put in extra effort, or do more than what's 
 One of the goals of every and all work places should be to increase the flow and with that autonomy.  Why not handle onboarding in a more game-like manner?  Rather than spending a week or longer on onboarding, start small and only roll out the procedures, policies, and responsibility over time.  
 
 For example, don't ask employees to read the entire playbook when they start and learn every system.  Allow them to start with a lower risk project and incrementally increase their responsibility, adding complexity to the work each time.  
-
 
 ## Making space for play
 
