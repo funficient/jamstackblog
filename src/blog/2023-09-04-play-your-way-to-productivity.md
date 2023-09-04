@@ -151,7 +151,7 @@ Although I'm not sure what the Abel Runner's Club entail and how much sense of c
 
 The game is designed for a solo runner.  The one thing I would change to make it more rewarding for long term players is to be able to become an organizer for a virtual or local running event where people can run together, or even in a relay.
 
-## Why it's so good
+## Finding the fun
 
 So what exactly makes this game fun?  And how can we use these insights to apply to productive work?  We'll first list the top 5 reasons why the game is fun from a gamer's perspective, and then move onto applying these mechanics to daily productive work.
 
@@ -215,7 +215,7 @@ One of the goals of every and all work places should be to increase the flow and
 
 For example, don't ask employees to read the entire playbook when they start and learn every system.  Allow them to start with a lower risk project and incrementally increase their responsibility, adding complexity to the work each time.  
 
-## Making space for play
+## Make space for play
 
 Work doesn't have to be boring, serious, or feel like a drag.  If we can turn something like exercise into a game, why not work?  It makes sense, after all, to motivate your employees and co-workers.  People who play well together work well together.
 
