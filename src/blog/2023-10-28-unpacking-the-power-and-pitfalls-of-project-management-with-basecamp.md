@@ -95,17 +95,17 @@ As chat is such a large part of the Basecamp value proposition, and Twitter hasn
 
 No business is sustainable if it isn't profitable, thus, growing revenue remains important for any business.  As community and great support is so important to Basecamp, the one metric I would choose to keep an eye on is:
 
- Customer lifetime value to acquisition cost ratio
+>  Customer lifetime value to acquisition cost ratio
 
 ### Key result 2: Increase satisfaction
 
 Word-of-mouth being their primary growth channel, measuring satisfaction is even more important than other companies.  The two metrics I would recommend are:
 
-Net promoter score
+> Net promoter score
 
 For obvious reasons, if people stop being satisfied with the product they won't recommend it to a friend, thus this is a key metric to include.  Even more important, however, is monitoring the feature adoption and usage rates.  
 
-feature adoption and usage rates
+> Feature adoption and usage rates
 
 While people might say they will tell a friend about the product, a more accurate signal of satisfaction is the usage rate of different features.  If users don't regularly use the features that make them stand out as an innovator, they risk losing their key differentiator that will keep people loyal.
 
@@ -113,9 +113,9 @@ While people might say they will tell a friend about the product, a more accurat
 
 To expand on the usage rates, the two key metrics I would measure to know whether usage is increasing, include:
 
-Daily and monthly active users
-
-Monthly active community members
+> Daily and monthly active users
+>
+> Monthly active community members
 
 The first would be interesting to track how many new sign-ups remain active after a month, 90 days, and years.  Do user activity increase or decrease over time?  
 
