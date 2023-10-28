@@ -21,15 +21,13 @@ The answer to this question is what makes [Basecamp ](https://basecamp.com/)a go
 
 If you're not familiar with Basecamp, it's a simple project management tool built and used by the team of 37 Signals primarily as a tool to scratch their own itch.  This is a rare example of dogfooding to the extreme.  After more than two decades, they're still eating their own dog food and accumulated thousands of paid users as well as a rather cult-like following.  
 
-I was curious to find out what exactly makes them so popular, having used the tool myself and not being *that* impressed with what it could do.  Sure, it much simpler and cleaner than most other project management tools. And then there's the fancy Hill Charts and fire side chats.  But I also found I spent much more time administering projects than what should be needed, and couldn't tell what the status of any project was without first diving into the depths of the project.  So I decided to go under the hood and find out whether it was our team who was doing it wrong, or if there's maybe some other reason why it's so popular.
+I was curious to find out what exactly makes them so popular, having used the tool myself and not being *that* impressed with what it could do.  Sure, it much simpler and cleaner than most other project management tools. And then there's the fancy Hill Charts and fire side chats.  But I also found I spent much more time administering projects than what should be needed, and couldn't tell what the status of any project was without first diving into the depths of the project (access the [product teardown report](https://www.funficient.com/product-teardowns) here).  So I decided to go under the hood and find out whether it was our team who was doing it wrong, or if there's maybe some other reason why it's so popular.
 
 The short answer is both.  Our team was being micro-managed and had very limited access to the setup to customize the tool to be more efficient.  I also found that the cult-like following wasn't necessarily about the quality or content of the tool, but rather the admiration for a team who created a great piece of technology - namely Ruby on Rails.   The die-hard fans all seemed to have one thing in common - they were programmers and they admired the technical excellence of the founders of Basecamp - the first tool built on Ruby on Rails.  
 
 Finally, I also discovered that Basecamp managed to create a tool that satisfied the primary need that distinguishes average project management from great project management, regardless of the tool.  ***Communication.***  
 
 But let me not get ahead of myself.  Let's start at the start.  Who would best benefit from the tool? 
-
-
 
 ## Who is it for?  And who is it *not* for?
 
