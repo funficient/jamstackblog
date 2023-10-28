@@ -11,7 +11,7 @@ author: Kate Dames
 date: 2023-10-28T15:41:42.626Z
 image: /assets/blog/pexels-sevenstorm-juhaszimrus-704767-1-.jpg
 imageAlt: Image by Pexels.
-canonical: https://www.blog.funficient.com/
+canonical: https://www.blog.funficient.com/blog/2023-10-28-unpacking-the-power-and-pitfalls-of-project-management-with-basecamp/
 ---
 > *What is the essence of good project management?*
 
