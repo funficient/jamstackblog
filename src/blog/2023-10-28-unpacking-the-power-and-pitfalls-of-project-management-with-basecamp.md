@@ -93,7 +93,7 @@ There are many benefits to the community for Basecamp, largely getting direct fe
 
 As chat is such a large part of the Basecamp value proposition, and Twitter hasn’t exactly been the happy place it used to be since Elon Musk took over the reigns, I wouldn’t be surprised if creating an alternative to social media is on their list of future products.
 
-With these objectives in mind, it would be impossible to measure progress without some key results to keep an eye on. After all, you can’t improve what you don’t know. 
+With these objectives in mind, it would be impossible to measure progress without some key results to keep an eye on. After all, you can’t improve what you don’t know.
 
 ### Key result 1: Increase revenue
 
@@ -133,7 +133,7 @@ Thus, the core systems loop driving the engine behind Basecamp relates to the ab
 
 ### A deeper dive
 
-Taking a step closer to the nuts and bolts, but still on a high level, there are four main phases of using a product as defined by the Game Thinking framework. First, there’s the discovery, then the onboarding (or getting started), followed by the primary habit loops and core engine. Finally, there is the mastery phase for loyal followers and super users of a system. Below is a short summary of the strengths and weaknesses of each phase.
+Taking a step closer to the nuts and bolts, but still on a high level, there are four main phases of using a product as defined by the [Game Thinking framework](https://gamethinking.io/). First, there’s the discovery, then the onboarding (or getting started), followed by the primary habit loops and core engine. Finally, there is the mastery phase for loyal followers and super users of a system. Below is a short summary of the strengths and weaknesses of each phase.
 
 ### Discovery
 
@@ -145,7 +145,7 @@ The landing page is filled with visuals, customer testimonials, and open resourc
 
 The clear and simple pricing reduces the risk of switching — arguably the biggest barrier to entry. The pricing seems fair and affordable for most companies, especially when comparing it to competitor products like Clickup and Asana. There’s also a simple model of paying per team member with guests (clients and external contributors) being free, further reducing the risk and increasing the organic growth.
 
-Finally, there is abundant evidence that they are strong on support, even with the CEO’s email address widely published and inviting users to get in touch. Even though in practice I have no idea what happens with these mails as it doesn’t result in any form of response, it does contribute to trust.
+Finally, there is abundant evidence that they are strong on support, even with the CEO’s email address widely published and inviting users to get in touch. Even though in practice I have no idea what happens with these mails as it doesn’t result in any response, it does contribute to trust displaying it for anyone to use.
 
 #### What could be better?
 
@@ -153,7 +153,7 @@ Having been part of the community for long enough, there seems to be more pricin
 
 It is evident that the product, which has been around for over two decades, has grown and the documentation hasn’t always kept up to date with the changes, making it hard for a new comer to know what the older following assumes as common knowledge.
 
-Another thing that’s slightly annoying is that the sales pitch is rather, mmmm…. too much. It feels rather arrogant and pushy, as if the product doesn’t speak for itself.
+Another thing that’s slightly annoying is that the sales pitch is rather, mmmm…. too much. It feels rather arrogant and pushy.
 
 ### Get started (onboarding)
 
@@ -173,7 +173,7 @@ Inviting contributors to a project is overly complicated and confusing. The proc
 
 It’s evident that it’s an old product that has grown and contracted over the years, with clearly different designers working on different parts of the product as there’s not consistent use of design assets, which in turn decrease the learnability of the product and its unique patterns.
 
-It’s also not clear for a new user what the intent or function of different blocks are. For example, there seems to be no difference between a Message Board page and a Docs & Files page making it unclear when to use which. The Schedule is also what I would rather call a Calendar, and the Card Table seems to be an add-on that isn’t integrated to the rest of the product. I would assume that a card and a to-do, for example, can be cross referenced, but it requires duplicate work to update the two features separately, making it rather inefficient. Plus, there’s an extra step to force a triage of all new cards which is counter intuitive and obsolete in most of my use cases, as I only write down what I want to intentionally remember.
+It’s also not clear for a new user what the intent or function of different blocks are. For example, there seems to be no difference between a Message Board page and a Docs & Files page making it unclear when to use which. The Schedule is also what I would rather call a Calendar, and the Card Table seems to be an add-on that isn’t integrated to the rest of the product. I would assume that a card and a to-do, for example, can be cross referenced, but it requires duplicate work to update the two features separately, making it rather inefficient. Plus, there’s an extra step to force a triage (I *really* wish we would stop using this term! We’re dealing with software, not people requiring urgent medical assistance) of all new cards which is counter intuitive and obsolete in most of my use cases, as I only write down what I want to intentionally remember.
 
 ### Get better (core learning loop)
 
@@ -187,17 +187,17 @@ Another area where it shines is the activity summary and the daily email digest.
 
 The ability to setup a project template is quick and easy, making it exceptionally easy to create a re-usable, standardized project in minutes.
 
-Another feature which was recently launched that is long overdue and much needed is the ability to stack projects into a pile on your desktop. The only downside is that it will remain undiscovered by anyone who isn’t a die-hard Basecamp follower as there is no way to discover this feature via the interface. This, according to them, however, was intentional (which I doubt very much and rather think it was an oversight they’re not willing to admit to).
+Another feature which was recently launched that is long overdue and much needed is the ability to stack projects into a pile on your desktop. The only downside is that it will remain undiscovered by anyone who isn’t a die-hard Basecamp follower as there is no way to discover this feature via the interface. This, according to them, however, was intentional (which I doubt very much).
 
 #### What could be better?
 
 By far the biggest issue is how the notifications work. Most new users are overwhelmed and complain about the sheer volume of notifications. It’s an either on or off switch to set notifications, choosing between being overwhelmed by every time anything happens, from receiving a message, to someone commenting on a page or project, to check-ins, the list goes on, and receiving no notifications at all.
 
-To make this problem worse, there are multiple settings on different levels for setting notifications, overriding settings you might think you’ve already set. It also seems as if the switches are buggy as even when I switch it on or off it doesn’t work as expected. 
+To make this problem worse, there are multiple settings on different levels for setting notifications, overriding settings you might think you’ve already set. It also seems as if the switches are buggy as even when I switch it on or off it doesn’t work as expected.
 
-Although I’m not a big fan of notifications, it can be handy to be notified of certain things. There is a huge room for improvement in this area of the product and probably one of the things that would have the biggest impact on new customer satisfaction levels.
+Although I’m not a big fan of notifications and is usually the first thing I make sure to be off when using new software, it can be handy to be notified of certain things. There is huge room for improvement in this area of the product and probably one of the things that would have the biggest impact on new customer satisfaction levels.
 
-Already touched on, another area that is rather annoying is that none of the elements seem integrated, resulting in a lot of duplicate work. For example, checking off to-do’s doesn’t result in the hill charts being updated. Or moving cards on the card table doesn’t change the status of to-do’s. It’s as if features are added but the architecture is updated, it just expands.
+Already touched on, another area that is rather annoying is that none of the elements seem integrated, resulting in a lot of duplicate work. For example, checking off to-do’s doesn’t result in the hill charts being updated (even though it gets created from to-do’s). Or moving cards on the card table doesn’t change the status of to-do’s. It’s as if features are added but the architecture is updated, it just expands.
 
 Another big disadvantage is that everything is on separate pages. There is no one single page where one can see the health of the project or status at a glance. In order to know what’s going on with a project, you have to navigate to a number of different pages to see the status. This is one of the biggest areas of improvements when considering larger organizations as target audience in my opinion.
 
