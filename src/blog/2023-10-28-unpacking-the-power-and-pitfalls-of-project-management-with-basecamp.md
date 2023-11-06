@@ -7,6 +7,7 @@ description: Basecamp is a simple project management tool that offers less
 tags:
   - post
   - product
+  - featured
 author: Kate Dames
 date: 2023-10-28T15:41:42.626Z
 image: /assets/blog/pexels-sevenstorm-juhaszimrus-704767-1-.jpg
