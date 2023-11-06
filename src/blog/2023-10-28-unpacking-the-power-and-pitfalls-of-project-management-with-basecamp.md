@@ -17,11 +17,13 @@ canonical: https://www.blog.funficient.com/blog/2023-10-28-unpacking-the-power-a
 
 The answer to this question is what makes [Basecamp](https://basecamp.com/) a good choice when you’re looking for a tool to manage your projects. This post takes a deep dive into Basecamp after using the tool to manage projects, and being part of the Basecamp Community where insider tips and insights into how the Basecampers use their tool is shared.
 
+
+
 ### A short history of everything…
 
 If you’re not familiar with Basecamp, it’s a simple project management tool built and used by the team of 37 Signals primarily as a tool to scratch their own itch. This is a rare example of dogfooding to the extreme. After more than two decades, they’re still eating their own dog food, while accumulating thousands of paid users as well as a rather cult-like following.
 
-I was curious to find out what exactly makes them so popular, having used the tool myself and not being *that* impressed with what it could do. Sure, it is much simpler and cleaner than most other project management tools. And there’s the fancy Hill Charts and Fire Side Chats. But I also found I spent more time administering projects than what should be needed, and couldn’t tell the status of any project at a glance. So I decided to go under the hood and find out whether it was our team who was doing it wrong, or if there’s maybe some other reason why it’s so popular. *(If you’re impatient, access the [product teardown](https://www.funficient.com/product-teardowns) summary here)*
+I was curious to find out what exactly makes them so popular, having used the tool myself and not being *that* impressed with what it could do. Sure, it is much simpler and cleaner than most other project management tools. And there’s the fancy Hill Charts and Fire Side Chats. But I also found I spent more time administering projects than what should be needed, and couldn’t tell the status of any project at a glance. So I decided to go under the hood and find out whether it was our team who was doing it wrong, or if there’s maybe some other reason why it’s so popular. *(If you’re impatient, get the [product teardown](https://www.funficient.com/product-teardowns) summary here)*
 
 The short answer is both. Our team was being micro-managed and had very limited access to customize the tool to be more efficient. I also found that the cult-like following wasn’t necessarily about the quality or content of the tool, but rather admiration for a team who created a great piece of technology — namely Ruby on Rails. The die-hard fans all seemed to have one thing in common — they were programmers who admired the technical excellence of the founders of Basecamp — the first tool ever built on Ruby on Rails.
 
@@ -33,17 +35,19 @@ But let me not get ahead of myself. Let’s start at the start. Who would best b
 
 ### Who is it for? And who is it not for?
 
-The ideal users are independent freelancers, or small teams. Bonus points for remote first, asynchronous teams. It’s typically used by design and development agencies, non-profits, educational institutions, architects, interior designers, and anyone looking for a *simple* project management tool to manage a few small projects.
+The ideal users are independent freelancers, or small teams. Bonus points for remote first, asynchronous software delivery teams. It’s used by small teams such as design and development agencies, non-profits, educational institutions, architects, interior designers, and anyone looking for a *simple* project management tool to manage a few rather small projects. 
 
-The tool shines in comparison to other project management tools in terms of the simplicity it offers. You don’t have to figure out where to find information and everything is explained in simple, easy-to-understand English. There’s also limited options so you’re never overwhelmed with choices.
+The tool shines in comparison to other project management tools in terms of its simplicity. You don’t have to figure out where to find information and everything is explained in simple, easy-to-understand English. There are also limited options so you’re never overwhelmed with choices.
 
-While it has been adopted by some larger organizations, there’s definitely some scaling issues making it best suited for smaller teams. There is, for example very limited access and admin controls, and the campfire chat, which is central to the value proposition, gets rather hard to follow when there’s more than 1, 000 users, or even 100 active ones.
+While it has been adopted by some larger organizations, there’s definitely some scaling issues making it best suited for smaller teams. Ultimately, though, regardless of your size, it’s for teams looking for a tool to manage projects without the disciplines typically associated with project management.
 
 ### What makes Basecamp great?
 
-Basecamp, according to me, has two value propositions that stands out above all other project management tools I’ve come across. Firstly, it is centered around *communication*, with in-built chat a core feature, as well as the ability to share pages for easier collaboration. Secondly, it brings together everything into a single place. You don’t need a tool to chat, a tool to manage projects, and another tool to store information.
+Basecamp, according to me, has two value propositions that stands out above other project management tools. 
 
-Basecamp offers a seamlessly integrated solution that allows everyone involved in a project to chat, work, and track progress. While most project management tools are for project managers only, Basecamp is a tool that includes *everyone* — even the customers.
+Firstly, it is centered around *communication*, with in-built chat a core feature, as well as the ability to share pages for easier collaboration. 
+
+Secondly, it brings together everything into a single place. You don’t need a tool to chat, a tool to manage projects, and another tool to store information. Basecamp offers a seamlessly integrated solution that allows everyone involved in a project to chat, work, and track progress. While most project management tools are for project managers only, Basecamp is a tool that includes *everyone* — even the customers.
 
 ### Product Values
 
@@ -57,7 +61,7 @@ Whenever they design a new feature they ask themselves what the simplest thing t
 
 ### 2. Innovation
 
-A close second value is innovation. The 37 Signals team don’t like to flow downstream with the masses. They love doing everything in their unique way. If other people call it an Inbox, they can’t resist making it their own and calling it an Imbox (yes, that’s intentional, it’s not a typo). If other people call it a schedule, they call it a line-up. If other people use a timeline to measure progress, they add a curve and call it a hill chart.
+A close second value is innovation. The 37 Signals team don’t like to flow downstream with the masses. They love doing everything in their unique way. If other people call it an Inbox, they can’t resist making it their own and calling it an Imbox (yes, that’s intentional, it’s not a typo). If other people use a timeline to measure progress, they add a curve and call it a hill chart.
 
 They don’t do anything conventional, which leads to fresh perspectives to old problems. It also means they spend more time than the average company trying to understand the problem they’re trying to solve before jumping towards a solution.
 
@@ -69,7 +73,7 @@ The third and final value which is also core to the success of the product as we
 
 ### OKRs
 
-From an outside perspective with no insight into what is planned for the future, except some signals indicating geographic expansion, the key objective for the organization as a whole is to enable better communication on projects. This entails both communication in the form of chat and longer form communication, as well as finding, referring to, and using shared assets.
+From an outside perspective with no insight into what is planned for the future, except some signals indicating geographic expansion, the key objective for the organization as a whole is to ***enable better communication*** on projects. This entails both communication in the form of chat and longer form communication, as well as finding, referring to, and using shared assets.
 
 The secondary objectives to meet this primary objective are:
 
@@ -87,27 +91,25 @@ While most companies do competitor analysis and then add the most popular items 
 
 ### Objective 3: Grow the community
 
-Basecamp has never been in the top list of project management tools for obvious reasons, but that is starting to change. They’re starting to gain a lot more visibility and has recently opened up their community headquarters to invite fans and users to connect and share ideas in a Basecamp project.
+Basecamp has never been in the top list of project management tools for obvious reasons, but that is starting to change. They’re starting to gain more visibility and has recently opened up their community headquarters to invite fans and users to connect and share ideas in a Basecamp project.
 
-There are many benefits to the community for Basecamp, largely getting direct feedback from users and having access to willing beta testers to improve their offering. Secondary, it increases the likelihood of increasing loyalty and word-of-mouth referrals.
-
-As chat is such a large part of the Basecamp value proposition, and Twitter hasn’t exactly been the happy place it used to be since Elon Musk took over the reigns, I wouldn’t be surprised if creating an alternative to social media is on their list of future products.
+There are many benefits to the community for Basecamp, largely getting direct feedback from users and having access to willing (and free) beta testers to improve their offering. Also, it increases the likelihood of increasing loyalty and word-of-mouth referrals.
 
 With these objectives in mind, it would be impossible to measure progress without some key results to keep an eye on. After all, you can’t improve what you don’t know.
 
 ### Key result 1: Increase revenue
 
-No business is sustainable if it isn’t profitable, thus, growing revenue remains important for any business. As community and great support is so important to Basecamp, the one metric I would choose to keep an eye on is:
+No business is sustainable if it isn’t profitable, thus, growing revenue remains important for any business. As community and great support is so important to Basecamp, the one metric I would choose to keep an eye on when it comes to profitability is:
 
 > Customer lifetime value to acquisition cost ratio
 
 ### Key result 2: Increase satisfaction
 
-Word-of-mouth being their primary growth channel, measuring satisfaction is even more important than other companies. The two metrics I would recommend are:
+Word-of-mouth being their primary growth channel, measuring satisfaction is even more important than most companies. The two metrics I would recommend are:
 
 > Net promoter score
 
-For obvious reasons, if people stop being satisfied with the product they won’t recommend it to a friend, thus this is a key metric to include. Even more important, however, is monitoring the feature adoption and usage rates.
+For obvious reasons, if people stop being satisfied with the product they won’t recommend it to a friend, thus this is a key metric to include. Even more important, however, is monitoring the feature adoption and usage rates. If I had to choose only one, I would choose this one to measure.
 
 > Feature adoption and usage rates
 
@@ -121,7 +123,7 @@ To expand on the usage rates, the two key metrics I would measure to know whethe
 >
 > Monthly active community members
 
-The first would be interesting to track how many new sign-ups remain active after a month, 90 days, and years. Do user activity increase or decrease over time?
+The first would be interesting to track how many new sign-ups remain active after a month, 90 days, and year increments there after. 
 
 Secondly, as the community is essentially the brand ambassadors and sales force, their level of enthusiasm and activity could also provide valuable signals regarding the growth of the community.
 
@@ -133,7 +135,9 @@ Thus, the core systems loop driving the engine behind Basecamp relates to the ab
 
 ### A deeper dive
 
-Taking a step closer to the nuts and bolts, but still on a high level, there are four main phases of using a product as defined by the [Game Thinking framework](https://gamethinking.io/). First, there’s the discovery, then the onboarding (or getting started), followed by the primary habit loops and core engine. Finally, there is the mastery phase for loyal followers and super users of a system. Below is a short summary of the strengths and weaknesses of each phase.
+Taking a step closer to the nuts and bolts, but still on a high level, there are four main phases of using a product as defined by the [Game Thinking framework](https://gamethinking.io/) which I will now use to evaluate the product. 
+
+First, there’s the discovery, phase then onboarding (or getting started), followed by the primary habit loop and core engine of the product. Finally, there is the mastery phase for select loyal followers and super users of a system. Below is a short summary of the strengths and weaknesses of each phase.
 
 ### Discovery
 
@@ -145,11 +149,11 @@ The landing page is filled with visuals, customer testimonials, and open resourc
 
 The clear and simple pricing reduces the risk of switching — arguably the biggest barrier to entry. The pricing seems fair and affordable for most companies, especially when comparing it to competitor products like Clickup and Asana. There’s also a simple model of paying per team member with guests (clients and external contributors) being free, further reducing the risk and increasing the organic growth.
 
-Finally, there is abundant evidence that they are strong on support, even with the CEO’s email address widely published and inviting users to get in touch. Even though in practice I have no idea what happens with these mails as it doesn’t result in any response, it does contribute to trust displaying it for anyone to use.
+Finally, there is abundant evidence that they are strong on support, even with the CEO’s email address widely published and inviting users to get in touch. Even though in practice I have no idea what happens with these mails as it doesn’t result in any response, it does contribute to the perception of trustworthiness.
 
 #### What could be better?
 
-Having been part of the community for long enough, there seems to be more pricing options not visible on the pricing page. This can be rather confusing at times, especially when they refer to products like Hey as something separate but there’s no reference to it on the pricing page.
+Having been part of the community for a while, there seems to be pricing options not available on the pricing page. This can be rather confusing at times, especially when they refer to products like Hey as something separate but there’s no reference to it on the pricing page.
 
 It is evident that the product, which has been around for over two decades, has grown and the documentation hasn’t always kept up to date with the changes, making it hard for a new comer to know what the older following assumes as common knowledge.
 
@@ -157,7 +161,7 @@ Another thing that’s slightly annoying is that the sales pitch is rather, mmmm
 
 ### Get started (onboarding)
 
-The onboarding process is pretty straightforward and simple, with a few design decisions I would question, but on average, simple enough (provided you’re not inviting contributors yet).
+The onboarding process is pretty straightforward, with a few design decisions I would question, but on average, simple enough (provided you’re not inviting contributors yet).
 
 #### What works?
 
@@ -165,19 +169,19 @@ The one-page setup (excluding inviting contributors) are easy to follow and allo
 
 Once you complete sign-up, you land on a clean page with limited options, reducing cognitive overload. There’s a quick start guide as well as a sample project to see how the Basecampers use the product.
 
-Finally, the ability to integrate other products via “doors” allows you to create a portal that keeps all the assets, resources, and information easily accessible in one place. This is by far one of the best features offered by the product.
+Finally, the ability to integrate other products via “doors” allows you to create a portal that keeps all the assets, resources, and information easily accessible in one place. 
 
 #### What could be better?
 
-Inviting contributors to a project is overly complicated and confusing. The process isn’t streamlined very well and the design decisions are rather, mmm… interesting.
+Inviting contributors to a project is overly complicated and rather confusing. The process isn’t streamlined and the design decisions are rather, mmm… interesting?
 
-It’s evident that it’s an old product that has grown and contracted over the years, with clearly different designers working on different parts of the product as there’s not consistent use of design assets, which in turn decrease the learnability of the product and its unique patterns.
+It’s evident that it’s an old product that has grown over the years, with clearly different designers working on different parts of the product as there’s little consistency when using design assets. This negatively impacts the learnability of the product.
 
-It’s also not clear for a new user what the intent or function of different blocks are. For example, there seems to be no difference between a Message Board page and a Docs & Files page making it unclear when to use which. The Schedule is also what I would rather call a Calendar, and the Card Table seems to be an add-on that isn’t integrated to the rest of the product. I would assume that a card and a to-do, for example, can be cross referenced, but it requires duplicate work to update the two features separately, making it rather inefficient. Plus, there’s an extra step to force a triage (I *really* wish we would stop using this term! We’re dealing with software, not people requiring urgent medical assistance) of all new cards which is counter intuitive and obsolete in most of my use cases, as I only write down what I want to intentionally remember.
+It’s also not clear for a new user what the intent or function of different blocks are. For example, there seems to be no difference between a *Message Board* page and a *Docs & Files* page making it unclear when to use which. The Schedule is also what I would rather call a Calendar, and the Card Table seems to be an add-on that isn’t integrated to the rest of the product. I would assume that a card and a to-do, for example, can be cross referenced, but it requires duplicate work to update the two features separately, making it rather inefficient. Plus, there’s an extra step to force a triage (I *really* wish we would stop using this term for software! We’re not dealing with people requiring urgent medical assistance!) of all new cards which is counter intuitive and inefficient.
 
 ### Get better (core learning loop)
 
-This is again a stronger area for Basecamp, as it is the only, or at least one of a handful, project management tool that includes customer chat and access to shared documents in one place.
+This is a strong part of the tool, as it is the only, or at least one of a handful, project management tool that includes customer chat and access to shared documents in one place.
 
 #### What works?
 
@@ -187,37 +191,37 @@ Another area where it shines is the activity summary and the daily email digest.
 
 The ability to setup a project template is quick and easy, making it exceptionally easy to create a re-usable, standardized project in minutes.
 
-Another feature which was recently launched that is long overdue and much needed is the ability to stack projects into a pile on your desktop. The only downside is that it will remain undiscovered by anyone who isn’t a die-hard Basecamp follower as there is no way to discover this feature via the interface. This, according to them, however, was intentional (which I doubt very much).
+Another feature which was recently launched that is long overdue and much needed is the ability to stack projects into a pile on your desktop. The only downside is that it will remain undiscovered by anyone who isn’t a die-hard Basecamp follower as there is no way to discover this feature via the interface. This, according to them, was intentional. Weird…
 
 #### What could be better?
 
-By far the biggest issue is how the notifications work. Most new users are overwhelmed and complain about the sheer volume of notifications. It’s an either on or off switch to set notifications, choosing between being overwhelmed by every time anything happens, from receiving a message, to someone commenting on a page or project, to check-ins, the list goes on, and receiving no notifications at all.
+By far the biggest issue is how notifications work. Most new users are overwhelmed with notifications and complain about the sheer volume. It’s an either on or off switch to set notifications, choosing between being overwhelmed by every time anything happens, from receiving a message, to someone commenting on a page or project, to check-ins, the list goes on, and receiving no notifications at all.
 
-To make this problem worse, there are multiple settings on different levels for setting notifications, overriding settings you might think you’ve already set. It also seems as if the switches are buggy as even when I switch it on or off it doesn’t work as expected.
+To make this problem worse, there are multiple settings on different levels for setting notifications, overriding settings you might think you’ve already set with again no indication in the interface to make it clear what you’ve set. It also seems as if the switches are buggy as even when I switch it on or off it doesn’t work as expected.
 
-Although I’m not a big fan of notifications and is usually the first thing I make sure to be off when using new software, it can be handy to be notified of certain things. There is huge room for improvement in this area of the product and probably one of the things that would have the biggest impact on new customer satisfaction levels.
+Although I’m not a big fan of notifications and usually the first thing I witch off when using new software, it can be handy to be notified of certain things when managing a time critical project. There is huge room for improvement in this area of the product and probably one of the things that would have the biggest impact on new customer satisfaction levels.
 
-Already touched on, another area that is rather annoying is that none of the elements seem integrated, resulting in a lot of duplicate work. For example, checking off to-do’s doesn’t result in the hill charts being updated (even though it gets created from to-do’s). Or moving cards on the card table doesn’t change the status of to-do’s. It’s as if features are added but the architecture is updated, it just expands.
+Already touched on, another area that is rather annoying is that none of the elements seem integrated, resulting in a lot of duplicate work. For example, checking off to-do’s doesn’t result in the hill charts being updated (even though it gets created from to-do’s). Or moving cards on the card table doesn’t change the status of to-do’s. 
 
-Another big disadvantage is that everything is on separate pages. There is no one single page where one can see the health of the project or status at a glance. In order to know what’s going on with a project, you have to navigate to a number of different pages to see the status. This is one of the biggest areas of improvements when considering larger organizations as target audience in my opinion.
+Another big disadvantage is that everything is on separate pages. There is no one single page where one can see the health of the project or status at a glance. In order to know what’s going on with a project, you have to navigate to a number of different pages to see the status. This would be one of the biggest improvement areas when considering larger organizations as target audience in my opinion.
 
 ### Mastery
 
-The mastery phase is adequate and allows for super users to customize the project. Opening up the community also greatly improved the motivation for users to stay loyal to the product.
+The mastery phase is adequate and allows for super users to customize the project. Opening up the community also greatly improved the motivation for users to stay loyal to the product and tell others about it.
 
 #### What works?
 
 There are nearly unlimited options to modify the inner workings of the product with webhooks and create custom workflows, notifications, and reports — provided you have access to an in-house developer who can manage it.
 
-The community is also a wonderful resource to get tips and insights on how to solve problems and connect with other Basecampers. Best of all community members are able to add their wishes and complaints about the product. This doesn’t mean that it will get resolved, but it does influence the roadmap to a certain degree.
+The community is also a wonderful resource to get tips and insights on how to solve product (and other) problems as well as connect with other Basecampers. Best of all community members are able to add their wishes and complaints about the product. This doesn’t mean that it will get resolved, but it does influence the roadmap to a certain degree.
 
 #### What could be better?
 
-It’s a founder-lead product with the community wishes not necessarily leading the product direction. It’s as if the doors to the house have been opened, but people haven’t yet been invited in. They’re still standing on the patio talking to each other rather than co-leading the product direction.
+It’s a founder-lead product with the community wishes not necessarily leading the product direction. It’s as if the doors to the house have been opened, but people haven’t been invited to come inside. 
 
-This is probably due to their approach to building software, which intentionally excludes a backlog or roadmap. Each cycle (lasting 6 weeks) they decide what they want to build. If people felt their wishes came true and they were included in the product rather than just an outside observer or cheerleader, their loyalty would most probably increase drastically as co-creative tools like Figma, Miro etc have proven.
+This is probably due to their approach to building software, which intentionally excludes a backlog or roadmap. Each cycle (lasting 6 weeks) they decide what they want to build. However, from a growth strategy perspective, if people believed they were co-creating the product rather than just an outside observer or cheerleader, their loyalty would most probably increase drastically as co-creative tools like Figma, Miro etc have proven over and over again.
 
-There is also no benefit to users to refer the product. There is no affiliate program or discounts for referrals. This is not something that necessarily should be added to the product strategy, but it would definitely benefit their growth if they did include a more user-focused strategy.
+There is also no benefit to users to refer the product, like an affiliate program or discounts for referrals. This is not something that necessarily *should* be added to the product strategy, but it would definitely benefit their growth if they did include a more user-focused tactic.
 
 ### In summary
 
