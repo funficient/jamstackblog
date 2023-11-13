@@ -7,7 +7,6 @@ description: Basecamp is a simple project management tool that offers less
 tags:
   - post
   - product
-  - featured
 author: Kate Dames
 date: 2023-10-28T15:41:42.626Z
 image: /assets/blog/pexels-sevenstorm-juhaszimrus-704767-1-.jpg
@@ -17,8 +16,6 @@ canonical: https://www.blog.funficient.com/blog/2023-10-28-unpacking-the-power-a
 > *What is the essence of good project management?*
 
 The answer to this question is what makes [Basecamp](https://basecamp.com/) a good choice when you’re looking for a tool to manage your projects. This post takes a deep dive into Basecamp after using the tool to manage projects, and being part of the Basecamp Community where insider tips and insights into how the Basecampers use their tool is shared.
-
-
 
 ### A short history of everything…
 
@@ -102,17 +99,17 @@ With these objectives in mind, it would be impossible to measure progress withou
 
 No business is sustainable if it isn’t profitable, thus, growing revenue remains important for any business. As community and great support is so important to Basecamp, the one metric I would choose to keep an eye on when it comes to profitability is:
 
-> Customer lifetime value to acquisition cost ratio
+> *Customer lifetime value to acquisition cost ratio*
 
 ### Key result 2: Increase satisfaction
 
 Word-of-mouth being their primary growth channel, measuring satisfaction is even more important than most companies. The two metrics I would recommend are:
 
-> Net promoter score
+> *Net promoter score*
 
 For obvious reasons, if people stop being satisfied with the product they won’t recommend it to a friend, thus this is a key metric to include. Even more important, however, is monitoring the feature adoption and usage rates. If I had to choose only one, I would choose this one to measure.
 
-> Feature adoption and usage rates
+> *Feature adoption and usage rates*
 
 While people might say they will tell a friend about the product, a more accurate signal of satisfaction is the usage rate of different features. If users don’t regularly use the features that make them stand out as an innovator, they risk losing their key differentiator that will keep people loyal.
 
@@ -120,9 +117,9 @@ While people might say they will tell a friend about the product, a more accurat
 
 To expand on the usage rates, the two key metrics I would measure to know whether usage is increasing, include:
 
-> Daily and monthly active users
+> *Daily and monthly active users*
 >
-> Monthly active community members
+> *Monthly active community members*
 
 The first would be interesting to track how many new sign-ups remain active after a month, 90 days, and year increments there after. 
 
@@ -150,7 +147,7 @@ The landing page is filled with visuals, customer testimonials, and open resourc
 
 The clear and simple pricing reduces the risk of switching — arguably the biggest barrier to entry. The pricing seems fair and affordable for most companies, especially when comparing it to competitor products like Clickup and Asana. There’s also a simple model of paying per team member with guests (clients and external contributors) being free, further reducing the risk and increasing the organic growth.
 
-Finally, there is abundant evidence that they are strong on support, even with the CEO’s email address widely published and inviting users to get in touch. Even though in practice I have no idea what happens with these mails as it doesn’t result in any response, it does contribute to the perception of trustworthiness.
+Finally, there is abundant evidence that they are strong on support, even with the CEO’s email address widely published and inviting users to get in touch. Even though in practice I have no idea what happens with these mails as it doesn’t result in any response, it still contributes to the perception of trust.
 
 #### What could be better?
 
@@ -158,7 +155,7 @@ Having been part of the community for a while, there seems to be pricing options
 
 It is evident that the product, which has been around for over two decades, has grown and the documentation hasn’t always kept up to date with the changes, making it hard for a new comer to know what the older following assumes as common knowledge.
 
-Another thing that’s slightly annoying is that the sales pitch is rather, mmmm…. too much. It feels rather arrogant and pushy.
+Another thing that’s slightly annoying is that the sales pitch is rather, mmmm…. too much. It feels somewhat arrogant and pushy.
 
 ### Get started (onboarding)
 
@@ -174,9 +171,9 @@ Finally, the ability to integrate other products via “doors” allows you to c
 
 #### What could be better?
 
-Inviting contributors to a project is overly complicated and rather confusing. The process isn’t streamlined and the design decisions are rather, mmm… interesting?
+Inviting contributors to a project is overly complicated and rather confusing. The process isn’t streamlined and the design decisions are somewhat, mmm… interesting?
 
-It’s evident that it’s an old product that has grown over the years, with clearly different designers working on different parts of the product as there’s little consistency when using design assets. This negatively impacts the learnability of the product.
+It’s evident that it’s an old product that has grown over the years, with clearly different designers working on different parts of the product as there’s little consistency when using design assets. This somewhat negatively impacts the learnability of the product.
 
 It’s also not clear for a new user what the intent or function of different blocks are. For example, there seems to be no difference between a *Message Board* page and a *Docs & Files* page making it unclear when to use which. The Schedule is also what I would rather call a Calendar, and the Card Table seems to be an add-on that isn’t integrated to the rest of the product. I would assume that a card and a to-do, for example, can be cross referenced, but it requires duplicate work to update the two features separately, making it rather inefficient. Plus, there’s an extra step to force a triage (I *really* wish we would stop using this term for software! We’re not dealing with people requiring urgent medical assistance!) of all new cards which is counter intuitive and inefficient.
 
@@ -228,4 +225,4 @@ There is also no benefit to users to refer the product, like an affiliate progra
 
 Basecamp is an innovative project management tool that is changing the way project management is done. They understand the essence of good project management is good communication, and has built a product that enables good communication for the whole team, making it stand out as a leader.
 
-It is, however, not the most intuitive user experience and lacks a lot of functionality considered basic by users coming from other project management tools. It’s thus best suited for small, informal teams that doesn’t need formal project management, but simply a way to keep track of what’s happening and a portal to access information.
+It is, however, not the most intuitive user experience and lacks a lot of functionality considered basic by users coming from other project management tools. It’s best suited for small, informal teams that doesn’t need formal project management, but simply a way to keep track of what’s happening and have access to a portal to access information.
