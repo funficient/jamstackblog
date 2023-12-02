@@ -133,7 +133,7 @@ Project management touches on all parts of an organization, making it the heart 
 
 ![Core systems loop](/assets/blog/basecamp-core-systems-diagram.png)
 
-Thus, the core systems loop driving the engine behind Basecamp relates to the ability to gather, organize, and respond to information. This, typically, is in the form of keeping track of to-do’s and keeping discussions around a project in one place.
+Thus, the core systems loop driving the engine behind Basecamp relates to the ability to gather, organize, and respond to information in a reinforcing loop. This, typically, is in the form of keeping track of to-do’s and keeping discussions around a project in one place.
 
 ### A deeper dive
 
