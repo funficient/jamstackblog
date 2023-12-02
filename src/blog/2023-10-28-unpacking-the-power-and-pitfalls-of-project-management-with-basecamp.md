@@ -21,7 +21,7 @@ The answer to this question is what makes [Basecamp](https://basecamp.com/) a go
 
 If you’re not familiar with Basecamp, it’s a simple project management tool built and used by the team of 37 Signals primarily as a tool to scratch their own itch. This is a rare example of dogfooding to the extreme. After more than two decades, they’re still eating their own dog food, while accumulating thousands of paid users as well as a rather cult-like following.
 
-I was curious to find out what exactly makes them so popular, having used the tool myself and not being *that* impressed with what it could do. Sure, it is much simpler and cleaner than most other project management tools. And there’s the fancy Hill Charts and Fire Side Chats. But I also found I spent more time administering projects than what should be needed, and couldn’t tell the status of any project at a glance. So I decided to go under the hood and find out whether it was our team who was doing it wrong, or if there’s maybe some other reason why it’s so popular. *(If you’re impatient, get the [product teardown](https://www.funficient.com/product-teardowns) summary here)*
+I was curious to find out what exactly makes them so popular, having used the tool myself and not being *that* impressed with what it could do. Sure, it is much simpler and cleaner than most other project management tools. And there’s the fancy Hill Charts and Fire Side Chats. But I also found I spent more time administering projects than what should be needed, and couldn’t tell the status of any project at a glance. So I decided to go under the hood and find out whether it was our team who was doing it wrong, or if there’s maybe some other reason why it’s so popular. ***Get the full [product teardown](https://www.funficient.com/product-teardowns) here.***
 
 The short answer is both. Our team was being micro-managed and had very limited access to customize the tool to be more efficient. I also found that the cult-like following wasn’t necessarily about the quality or content of the tool, but rather admiration for a team who created a great piece of technology — namely Ruby on Rails. The die-hard fans all seemed to have one thing in common — they were programmers who admired the technical excellence of the founders of Basecamp — the first tool ever built on Ruby on Rails.
 
@@ -34,6 +34,8 @@ But let me not get ahead of myself. Let’s start at the start. Who would best b
 ### Who is it for? And who is it not for?
 
 The ideal users are independent freelancers, or small teams. Bonus points for remote first, asynchronous software delivery teams. It’s used by small teams such as design and development agencies, non-profits, educational institutions, architects, interior designers, and anyone looking for a *simple* project management tool to manage a few rather small projects. 
+
+![The target user wants simplicity and flexibility.](/assets/blog/basecamp-target-user.png)
 
 The tool shines in comparison to other project management tools in terms of its simplicity. You don’t have to figure out where to find information and everything is explained in simple, easy-to-understand English. There are also limited options so you’re never overwhelmed with choices.
 
@@ -128,6 +130,8 @@ Secondly, as the community is essentially the brand ambassadors and sales force,
 ### Core systems loop
 
 Project management touches on all parts of an organization, making it the heart of the organization. It is primarily driven by a single reinforcing loop. The more accurate information available, the better decisions and estimations you can make, leading to a higher probability of delivering projects successfully. In turn, the more you prove to be successful at delivering a project, the higher the chance the people will refer or re-use your services.
+
+![Core systems loop](/assets/blog/basecamp-core-systems-diagram.png)
 
 Thus, the core systems loop driving the engine behind Basecamp relates to the ability to gather, organize, and respond to information. This, typically, is in the form of keeping track of to-do’s and keeping discussions around a project in one place.
 
