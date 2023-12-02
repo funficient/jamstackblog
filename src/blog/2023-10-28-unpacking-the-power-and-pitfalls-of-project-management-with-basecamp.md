@@ -75,6 +75,8 @@ The third and final value which is also core to the success of the product as we
 
 From an outside perspective with no insight into what is planned for the future, except some signals indicating geographic expansion, the key objective for the organization as a whole is to ***enable better communication*** on projects. This entails both communication in the form of chat and longer form communication, as well as finding, referring to, and using shared assets.
 
+![Key business objectives](/assets/blog/basecamp-core-value.png)
+
 The secondary objectives to meet this primary objective are:
 
 ### Objective 1: Increase word-of-mouth referrals
@@ -131,7 +133,7 @@ Secondly, as the community is essentially the brand ambassadors and sales force,
 
 Project management touches on all parts of an organization, making it the heart of the organization. It is primarily driven by a single reinforcing loop. The more accurate information available, the better decisions and estimations you can make, leading to a higher probability of delivering projects successfully. In turn, the more you prove to be successful at delivering a project, the higher the chance the people will refer or re-use your services.
 
-![Core systems loop](/assets/blog/basecamp-core-systems-diagram.png)
+![Core systems loop](/assets/blog/basecamp-core-systems-diagram-2.png)
 
 Thus, the core systems loop driving the engine behind Basecamp relates to the ability to gather, organize, and respond to information in a reinforcing loop. This, typically, is in the form of keeping track of to-do’s and keeping discussions around a project in one place.
 
