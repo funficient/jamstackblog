@@ -16,17 +16,17 @@ date: 2023-12-22T10:24:18.075Z
 image: /assets/blog/pexels-polina-tankilevitch-6625217-1-.jpg
 imageAlt: "Photo by Polina Tankilevitch:
   https://www.pexels.com/photo/small-white-eggs-with-gold-paint-6625217/"
-canonical: https://www.blog.funficient.com
+canonical: https://www.blog.funficient.com/blog/2023-12-22-what-is-psychological-safety/
 ---
-Safety is the foundational prerequisite to any high performing team.  When there is adequate psychological safety in the workplace employee wellness with increase and as a result turnover will reduce.  Also, creativity and innovation will drastically increase and with that, the overall productivity and potentially profitability will increase. Most importantly, though, is that you will attract and retain talent.
+Safety is the foundational prerequisite to any high performing team.  When there is adequate psychological safety in the workplace employee wellness will increase and as a result turnover will reduce.  Also, creativity and innovation will drastically increase and with that, the overall productivity and potentially profitability will increase. Most importantly, though, is that you will attract and retain top talent.
 
 Few workplaces manage to understand what it means to provide psychological safety, though.  This post aims to provide a 'dummies guide' to providing psychological safety.
 
 ## The basic levels of psychological safety
 
-Psychological safety, essentially, is providing a safe nest for the more vulnerable much like an egg is kept safe in a nest with the mother bird protectively ensuring no predators get close.  
+Psychological safety, essentially, is providing a safe nest for the vulnerable much like an egg is kept safe in a nest with the mother bird protectively ensuring no predators get close while the egg hatches and the chicks strengthen their wings for their first flight.  
 
-So what does this practically look like in the workplace?
+So what does this practically look like in the workplace?  There are three basic levels to psychological safety - material safety, emotional safety, and the safety to grow and transform.
 
 ### Level 1 - Material needs are met
 
