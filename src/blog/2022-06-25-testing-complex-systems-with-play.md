@@ -79,6 +79,8 @@ For example, a rental agent management app has different functionality and infor
 
 > When the requirements are fuzzy and the variables too many to list on a decision table, it’s time to play.
 
+![Image of an in-person play session.](/assets/blog/averly-play-test-outcomes.jpg)
+
 ## How to set-up the play-test
 
 Playful test follows the basic rules of testing. Determine a strategy, spend some time planning what and how to test, execute and finally report the test results. The main difference in test planning is that there are no set sequence as in traditional planning with one test case following the next. Rather, it can be seen as playing with lego where each piece can be used to build many different things.
@@ -152,8 +154,6 @@ Consider adding a target consisting of 3 circles on a whiteboard for players to 
 # The rules of the game
 
 If your system under test is too complex or complicated to adequately cover with test cases, or if there are simply too many variables to test within limited time frames, consider adding playful test to your test strategy.  The key to a playful experience is to provide enough structure to create an immersive experience while leaving adequate room for exploration and play.
-
-
 
 *Visit [www.funficient.com](http://www.funficient.com) to start the conversation to add play to your work, or read more about play here:*
 
