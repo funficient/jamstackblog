@@ -27,7 +27,7 @@ jobs:
         env:
           TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
         run: |
-          git clone https://x-access-token:$TOKEN@github.com/funficient/YOUR_TARGET_REPO.git target
+          git clone https://x-access-token:$TOKEN@github.com/funficient/funficient2022/.git target
           cp -r output/* target/
           cd target
           git config user.name "github-actions"
